@@ -174,7 +174,7 @@ cy_ccg_test:00844;11;i_plus_NP;;;;;;;;;;;;;;;;;;;;
 cy_ccg_test:00766;7;lexical;;;;;;;;;;;;;;;;;;;;
 cy_ccg_train:00655;3;lexical_ba;;;;;;;;;;;;;;;;;;;;
 cy_ccg_train:01077;17;lexical_bod;;;;;;;;;;;;;;;;;;;;
-cy_ccg_train:00021;38;lexical_cyn;;;;;;;;;;;;;;;;;;;;
+cy_ccg_train:00021;38;adj_before_noun;;;;;;;;;;;;;;;;;;;;
 cy_ccg_train:00491;5;lexical_ddau;;;;;;;;;;;;;;;;;;;;
 cy_ccg_train:01305;10;lexical_ddau;;;;;;;;;;;;;;;;;;;;
 cy_ccg_test:00317;10;lexical_ddau;;;;;;;;;;;;;;;;;;;;
