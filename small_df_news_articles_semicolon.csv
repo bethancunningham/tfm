@@ -7,7 +7,7 @@
 5;1;https://www.bbc.com/cymrufyw/erthyglau/cx2d29p7yeko;O'n ni yn rhan o'r ras oedd yng nghanol dinas Barcelona, lle 'naethon nhw wahodd cymunedau o ieithoedd lleiafrifol eraill atyn nhw.;nghanol;canol;NM;L;yng
 6;1;https://www.bbc.com/cymrufyw/erthyglau/cx2d29p7yeko;O'n ni yn rhan o'r ras oedd yng nghanol dinas Barcelona, lle 'naethon nhw wahodd cymunedau o ieithoedd lleiafrifol eraill atyn nhw.;rhan;rhan;no_SM;no_mutation;no_mutation
 7;1;https://www.bbc.com/cymrufyw/erthyglau/cx2d29p7yeko;O'n ni yn rhan o'r ras oedd yng nghanol dinas Barcelona, lle 'naethon nhw wahodd cymunedau o ieithoedd lleiafrifol eraill atyn nhw.;wahodd;gwahodd;SM;MS;direct_object_mutation
-8;2;https://www.bbc.com/cymrufyw/erthyglau/cx21lw1w09jo;Y gred yw bod y system bresennol â chapasiti i bweru tua 144,000 o gartrefi.;gred;crec;SM;MS;def_art_fem_sing_noun
+8;2;https://www.bbc.com/cymrufyw/erthyglau/cx21lw1w09jo;Y gred yw bod y system bresennol â chapasiti i bweru tua 144,000 o gartrefi.;gred;cred;SM;MS;def_art_fem_sing_noun
 9;2;https://www.bbc.com/cymrufyw/erthyglau/cx21lw1w09jo;Y gred yw bod y system bresennol â chapasiti i bweru tua 144,000 o gartrefi.;bresennol;presennol;SM;MS;fem_sing_noun_modifier
 10;2;https://www.bbc.com/cymrufyw/erthyglau/cx21lw1w09jo;Y gred yw bod y system bresennol â chapasiti i bweru tua 144,000 o gartrefi.;chapasiti;capasiti;AM;L;â
 11;2;https://www.bbc.com/cymrufyw/erthyglau/cx21lw1w09jo;Y gred yw bod y system bresennol â chapasiti i bweru tua 144,000 o gartrefi.;bweru;pweru;SM;L;i
