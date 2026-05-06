@@ -161,13 +161,13 @@
 159;47;https://www.bbc.com/cymrufyw/erthyglau/cn7pyjzllnro;Mae'n gallu bod yn anodd ofnadwy i recriwtio pobl leol yma ym Mryn Mawr.;Mryn;Bryn;NM;L;ym
 160;48;https://www.bbc.com/cymrufyw/erthyglau/c93x53lgxq7o;Mae ei geiriau Wele'n Sefyll Rhwng y Myrtwydd yn cael ei chanu fwy nag unrhyw emyn arall.;chanu;canu;AM;L;ei
 161;48;https://www.bbc.com/cymrufyw/erthyglau/c93x53lgxq7o;Mae ei geiriau Wele'n Sefyll Rhwng y Myrtwydd yn cael ei chanu fwy nag unrhyw emyn arall.;fwy;mwy;SM;MS;adverb_time_place_manner
-162;49;https://www.bbc.com/cymrufyw/erthyglau/c93x53lgxq7o;Fe ges wefr a fy ngwefru'r noson honno, a byth ers hynny rydw i wedi bod ar daith o ddod i adnabod Ann.;ces;cael;SM;L;fe
+162;49;https://www.bbc.com/cymrufyw/erthyglau/c93x53lgxq7o;Fe ges wefr a fy ngwefru'r noson honno, a byth ers hynny rydw i wedi bod ar daith o ddod i adnabod Ann.;ges;cael;SM;L;fe
 163;49;https://www.bbc.com/cymrufyw/erthyglau/c93x53lgxq7o;Fe ges wefr a fy ngwefru'r noson honno, a byth ers hynny rydw i wedi bod ar daith o ddod i adnabod Ann.;wefr;gwefr;SM;MS;direct_object_mutation
 164;49;https://www.bbc.com/cymrufyw/erthyglau/c93x53lgxq7o;Fe ges wefr a fy ngwefru'r noson honno, a byth ers hynny rydw i wedi bod ar daith o ddod i adnabod Ann.;ngwefru;gwefru;NM;L;fy
 165;49;https://www.bbc.com/cymrufyw/erthyglau/c93x53lgxq7o;Fe ges wefr a fy ngwefru'r noson honno, a byth ers hynny rydw i wedi bod ar daith o ddod i adnabod Ann.;daith;taith;SM;L;ar
 166;49;https://www.bbc.com/cymrufyw/erthyglau/c93x53lgxq7o;Fe ges wefr a fy ngwefru'r noson honno, a byth ers hynny rydw i wedi bod ar daith o ddod i adnabod Ann.;ddod;dod;SM;L;o
 167;50;https://www.bbc.com/cymrufyw/erthyglau/c5ye08l4pneo;Mae diffoddwyr tân yn delio ag achosion o danau gwyllt ym Mhowys.;danau;tanau;SM;L;o
-168;50;https://www.bbc.com/cymrufyw/erthyglau/c5ye08l4pneo;Mae diffoddwyr tân yn delio ag achosion o danau gwyllt ym Mhowys.;Mhowys;Powys;AM;L;ym
+168;50;https://www.bbc.com/cymrufyw/erthyglau/c5ye08l4pneo;Mae diffoddwyr tân yn delio ag achosion o danau gwyllt ym Mhowys.;Mhowys;Powys;NM;L;ym
 169;51;https://www.bbc.com/cymrufyw/erthyglau/c5ye08l4pneo;"Mae'r Ymddiriedolaeth Genedlaethol wedi cau Ystâd Hafod ym Mhont-rhyd-y-groes i ymwelwyr ""fel mesur rhagofal"" oherwydd y tân yng Nghwm Elan.";tân;tân;no_NM;no_mutation;no_mutation
 170;51;https://www.bbc.com/cymrufyw/erthyglau/c5ye08l4pneo;"Mae'r Ymddiriedolaeth Genedlaethol wedi cau Ystâd Hafod ym Mhont-rhyd-y-groes i ymwelwyr ""fel mesur rhagofal"" oherwydd y tân yng Nghwm Elan.";Genedlaethol;Cenedlaethol;SM;MS;fem_sing_noun_modifier
 171;51;https://www.bbc.com/cymrufyw/erthyglau/c5ye08l4pneo;"Mae'r Ymddiriedolaeth Genedlaethol wedi cau Ystâd Hafod ym Mhont-rhyd-y-groes i ymwelwyr ""fel mesur rhagofal"" oherwydd y tân yng Nghwm Elan.";Mhont-rhyd-y-groes;Pont-rhyd-y-groes;NM;L;ym
