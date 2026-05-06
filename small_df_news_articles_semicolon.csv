@@ -46,7 +46,7 @@
 44;12;https://www.bbc.com/cymrufyw/erthyglau/c7v9519jy8po;Mae Capel Jewin yn nwyrain Llundain yn un o'r ychydig gapeli Cymraeg sydd ar ôl yn y ddinas.;ddinas;dinas;SM;MS;def_art_fem_sing_noun
 45;13;https://www.bbc.com/cymrufyw/erthyglau/c7v9519jy8po;Mae 'na luniau o orffennol cythryblus iawn - ond wedi'r gyflafan fe godwyd capel arall.;luniau;llun;SM;MS;non_normal_word_order
 46;13;https://www.bbc.com/cymrufyw/erthyglau/c7v9519jy8po;Mae 'na luniau o orffennol cythryblus iawn - ond wedi'r gyflafan fe godwyd capel arall.;cythryblus;cythyrblus;no_AM;no_mutation;no_mutation
-47;13;https://www.bbc.com/cymrufyw/erthyglau/c7v9519jy8po;Mae 'na luniau o orffennol cythryblus iawn - ond wedi'r gyflafan fe godwyd capel arall.;orffenol;gorffenol;SM;L;o
+47;13;https://www.bbc.com/cymrufyw/erthyglau/c7v9519jy8po;Mae 'na luniau o orffennol cythryblus iawn - ond wedi'r gyflafan fe godwyd capel arall.;orffennol;gorffennol;SM;L;o
 48;13;https://www.bbc.com/cymrufyw/erthyglau/c7v9519jy8po;Mae 'na luniau o orffennol cythryblus iawn - ond wedi'r gyflafan fe godwyd capel arall.;gyflafan;cyflafan;SM;MS;def_art_fem_sing_noun
 49;13;https://www.bbc.com/cymrufyw/erthyglau/c7v9519jy8po;Mae 'na luniau o orffennol cythryblus iawn - ond wedi'r gyflafan fe godwyd capel arall.;godwyd;codwyd;SM;L;fe
 50;14;https://www.bbc.com/cymrufyw/erthyglau/cn0p1xz4jd1o;Bydd adrannau sydd â pherfformiad isel o ran y Gymraeg yn cael cynnig hyfforddiant ychwanegol.;pherfformiad;perfformiad;AM;L;â
@@ -67,7 +67,7 @@
 65;22;https://www.bbc.com/cymrufyw/erthyglau/cn9pl9edxdqo;Gan fod cymaint o etholaethau, roedd yn rhaid i'r golygyddion ddewis a dethol lle dylid anfon gohebwyr a chamerâu.;gohebwyr;gohebwr;no_NM;no_mutation;no_mutation
 66;22;https://www.bbc.com/cymrufyw/erthyglau/cn9pl9edxdqo;Gan fod cymaint o etholaethau, roedd yn rhaid i'r golygyddion ddewis a dethol lle dylid anfon gohebwyr a chamerâu.;ddewis;dewis;SM;MS;i_plus_NP
 67;22;https://www.bbc.com/cymrufyw/erthyglau/cn9pl9edxdqo;Gan fod cymaint o etholaethau, roedd yn rhaid i'r golygyddion ddewis a dethol lle dylid anfon gohebwyr a chamerâu.;fod;bod;SM;L;gan
-68;22;https://www.bbc.com/cymrufyw/erthyglau/cn9pl9edxdqo;Gan fod cymaint o etholaethau, roedd yn rhaid i'r golygyddion ddewis a dethol lle dylid anfon gohebwyr a chamerâu.;chamerau;camera;AM;L;a
+68;22;https://www.bbc.com/cymrufyw/erthyglau/cn9pl9edxdqo;Gan fod cymaint o etholaethau, roedd yn rhaid i'r golygyddion ddewis a dethol lle dylid anfon gohebwyr a chamerâu.;chamerâu;camera;AM;L;a
 69;23;https://www.bbc.com/cymrufyw/erthyglau/cn9pl9edxdqo;Bydd gan y rhaglenni radio a theledu ohebwyr ym mhob etholaeth.;theledu;teledu;AM;L;a
 70;23;https://www.bbc.com/cymrufyw/erthyglau/cn9pl9edxdqo;Bydd gan y rhaglenni radio a theledu ohebwyr ym mhob etholaeth.;ohebwyr;gohebwr;SM;MS;non_normal_word_order
 71;23;https://www.bbc.com/cymrufyw/erthyglau/cn9pl9edxdqo;Bydd gan y rhaglenni radio a theledu ohebwyr ym mhob etholaeth.;mhob;pobl;NM;L;ym
