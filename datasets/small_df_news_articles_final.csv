@@ -1,0 +1,1000 @@
+﻿item;sent_id;source;correct_sentence;sentence_en;correct_form;lemma;mutation_type;trigger_type;specific_trigger
+0;0;https://www.bbc.com/cymrufyw/erthyglau/cx2d29p7yeko;Oedd y fflam yn cael ei phasio o un gymuned i'r llall, ac ym mhob cymuned wedyn roedd digwyddiadau fel gigs a gweithgareddau i gydfynd â'r ras.;The flame was passed from one community to another, and in each community there were then events such as gigs and activities to accompany the race.;phasio;pasio;AM;L;ei
+1;0;https://www.bbc.com/cymrufyw/erthyglau/cx2d29p7yeko;Oedd y fflam yn cael ei phasio o un gymuned i'r llall, ac ym mhob cymuned wedyn roedd digwyddiadau fel gigs a gweithgareddau i gydfynd â'r ras.;The flame was passed from one community to another, and in each community there were then events such as gigs and activities to accompany the race.;mhob;pob;NM;L;ym
+2;0;https://www.bbc.com/cymrufyw/erthyglau/cx2d29p7yeko;Oedd y fflam yn cael ei phasio o un gymuned i'r llall, ac ym mhob cymuned wedyn roedd digwyddiadau fel gigs a gweithgareddau i gydfynd â'r ras.;The flame was passed from one community to another, and in each community there were then events such as gigs and activities to accompany the race.;gydfynd;cydfynd;SM;L;i
+3;0;https://www.bbc.com/cymrufyw/erthyglau/cx2d29p7yeko;Oedd y fflam yn cael ei phasio o un gymuned i'r llall, ac ym mhob cymuned wedyn roedd digwyddiadau fel gigs a gweithgareddau i gydfynd â'r ras.;The flame was passed from one community to another, and in each community there were then events such as gigs and activities to accompany the race.;cael;cael;no_AM;no_mutation;no_mutation
+4;0;https://www.bbc.com/cymrufyw/erthyglau/cx2d29p7yeko;Oedd y fflam yn cael ei phasio o un gymuned i'r llall, ac ym mhob cymuned wedyn roedd digwyddiadau fel gigs a gweithgareddau i gydfynd â'r ras.;The flame was passed from one community to another, and in each community there were then events such as gigs and activities to accompany the race.;gymuned;cymuned;SM;MS;num_fem_sing_noun
+5;1;https://www.bbc.com/cymrufyw/erthyglau/cx2d29p7yeko;O'n ni yn rhan o'r ras oedd yng nghanol dinas Barcelona, lle 'naethon nhw wahodd cymunedau o ieithoedd lleiafrifol eraill atyn nhw.;We were part of the race in the center of the city of Barcelona, ​​where they invited communities of other minority languages ​​to them.;nghanol;canol;NM;L;yng
+6;1;https://www.bbc.com/cymrufyw/erthyglau/cx2d29p7yeko;O'n ni yn rhan o'r ras oedd yng nghanol dinas Barcelona, lle 'naethon nhw wahodd cymunedau o ieithoedd lleiafrifol eraill atyn nhw.;We were part of the race in the center of the city of Barcelona, ​​where they invited communities of other minority languages ​​to them.;rhan;rhan;no_SM;no_mutation;no_mutation
+7;1;https://www.bbc.com/cymrufyw/erthyglau/cx2d29p7yeko;O'n ni yn rhan o'r ras oedd yng nghanol dinas Barcelona, lle 'naethon nhw wahodd cymunedau o ieithoedd lleiafrifol eraill atyn nhw.;We were part of the race in the center of the city of Barcelona, ​​where they invited communities of other minority languages ​​to them.;wahodd;gwahodd;SM;MS;direct_object_mutation
+8;2;https://www.bbc.com/cymrufyw/erthyglau/cx21lw1w09jo;Y gred yw bod y system bresennol â chapasiti i bweru tua 144,000 o gartrefi.;It is believed that the current system has the capacity to power around 144,000 homes.;gred;crec;SM;MS;def_art_fem_sing_noun
+9;2;https://www.bbc.com/cymrufyw/erthyglau/cx21lw1w09jo;Y gred yw bod y system bresennol â chapasiti i bweru tua 144,000 o gartrefi.;It is believed that the current system has the capacity to power around 144,000 homes.;bresennol;presennol;SM;MS;fem_sing_noun_modifier
+10;2;https://www.bbc.com/cymrufyw/erthyglau/cx21lw1w09jo;Y gred yw bod y system bresennol â chapasiti i bweru tua 144,000 o gartrefi.;It is believed that the current system has the capacity to power around 144,000 homes.;chapasiti;capasiti;AM;L;â
+11;2;https://www.bbc.com/cymrufyw/erthyglau/cx21lw1w09jo;Y gred yw bod y system bresennol â chapasiti i bweru tua 144,000 o gartrefi.;It is believed that the current system has the capacity to power around 144,000 homes.;bweru;pweru;SM;L;i
+12;3;https://www.bbc.com/cymrufyw/erthyglau/cx21lw1w09jo;Y prosiect mwyaf sydd ar y gweill yw fferm solar Alaw Môn ar Ynys Môn, fydd yn 660 erw o faint;The largest project in progress is the Alaw Môn solar farm on Anglesey, which will be 660 acres in size;prosiect;prosiect;no_AM;no_mutation;no_mutation
+13;3;https://www.bbc.com/cymrufyw/erthyglau/cx21lw1w09jo;Y prosiect mwyaf sydd ar y gweill yw fferm solar Alaw Môn ar Ynys Môn, fydd yn 660 erw o faint;The largest project in progress is the Alaw Môn solar farm on Anglesey, which will be 660 acres in size;fydd;bod;SM;MS;relative_zero_trigger
+14;4;https://www.bbc.com/cymrufyw/erthyglau/cp8p3j4er7eo;Fis diwethaf fe gipiodd y Cofis Gwpan Cymru am y tro cyntaf yn hanes y clwb, gan sicrhau lle yng Nghyngres Europa y tymor nesaf.;Last month the Cofis won the Welsh Cup for the first time in the club's history, securing a place in the Europa Congress next season.;Fis;mis;SM;MS;adverb_time_place_manner
+15;4;https://www.bbc.com/cymrufyw/erthyglau/cp8p3j4er7eo;Fis diwethaf fe gipiodd y Cofis Gwpan Cymru am y tro cyntaf yn hanes y clwb, gan sicrhau lle yng Nghyngres Europa y tymor nesaf.;Last month the Cofis won the Welsh Cup for the first time in the club's history, securing a place in the Europa Congress next season.;cyntaf;cyntaf;no_AM;no_mutation;no_mutation
+16;4;https://www.bbc.com/cymrufyw/erthyglau/cp8p3j4er7eo;Fis diwethaf fe gipiodd y Cofis Gwpan Cymru am y tro cyntaf yn hanes y clwb, gan sicrhau lle yng Nghyngres Europa y tymor nesaf.;Last month the Cofis won the Welsh Cup for the first time in the club's history, securing a place in the Europa Congress next season.;gipiodd;cipio;SM;L;fe
+17;4;https://www.bbc.com/cymrufyw/erthyglau/cp8p3j4er7eo;Fis diwethaf fe gipiodd y Cofis Gwpan Cymru am y tro cyntaf yn hanes y clwb, gan sicrhau lle yng Nghyngres Europa y tymor nesaf.;Last month the Cofis won the Welsh Cup for the first time in the club's history, securing a place in the Europa Congress next season.;Nghyngres;cyngres;NM;L;yng
+18;5;https://www.bbc.com/cymrufyw/erthyglau/cp8p3j4er7eo;Enillodd y tîm Gwpan Ieuenctid Cymru ddechrau Ebrill a chyn diwedd y mis fe gafodd y tîm merched eu coroni'n bencampwyr.;The team won the Welsh Youth Cup at the beginning of April and before the end of the month the women's team were crowned champions.;Gwpan;cwpan;SM;MS;direct_object_mutation
+19;5;https://www.bbc.com/cymrufyw/erthyglau/cp8p3j4er7eo;Enillodd y tîm Gwpan Ieuenctid Cymru ddechrau Ebrill a chyn diwedd y mis fe gafodd y tîm merched eu coroni'n bencampwyr.;The team won the Welsh Youth Cup at the beginning of April and before the end of the month the women's team were crowned champions.;ddechrau;dechrau;SM;MS;adverb_time_place_manner
+20;5;https://www.bbc.com/cymrufyw/erthyglau/cp8p3j4er7eo;Enillodd y tîm Gwpan Ieuenctid Cymru ddechrau Ebrill a chyn diwedd y mis fe gafodd y tîm merched eu coroni'n bencampwyr.;The team won the Welsh Youth Cup at the beginning of April and before the end of the month the women's team were crowned champions.;chyn;cyn;AM;L;a
+21;5;https://www.bbc.com/cymrufyw/erthyglau/cp8p3j4er7eo;Enillodd y tîm Gwpan Ieuenctid Cymru ddechrau Ebrill a chyn diwedd y mis fe gafodd y tîm merched eu coroni'n bencampwyr.;The team won the Welsh Youth Cup at the beginning of April and before the end of the month the women's team were crowned champions.;Cymru;Cymru;no_AM;no_mutation;no_mutation
+22;5;https://www.bbc.com/cymrufyw/erthyglau/cp8p3j4er7eo;Enillodd y tîm Gwpan Ieuenctid Cymru ddechrau Ebrill a chyn diwedd y mis fe gafodd y tîm merched eu coroni'n bencampwyr.;The team won the Welsh Youth Cup at the beginning of April and before the end of the month the women's team were crowned champions.;gafodd;cael;SM;L;fe
+23;5;https://www.bbc.com/cymrufyw/erthyglau/cp8p3j4er7eo;Enillodd y tîm Gwpan Ieuenctid Cymru ddechrau Ebrill a chyn diwedd y mis fe gafodd y tîm merched eu coroni'n bencampwyr.;The team won the Welsh Youth Cup at the beginning of April and before the end of the month the women's team were crowned champions.;bencampwyr;pencampwr;SM;MS;yn_complement_adj_noun
+24;6;https://www.bbc.com/cymrufyw/erthyglau/c05drnrq3d6o;Yn 1911, enillodd fedal aur yr Academi Frenhinol – yr artist ieuengaf erioed ar y pryd, a'r cyntaf o Gymru;In 1911, he won the gold medal of the Royal Academy - the youngest ever artist at the time, and the first from Wales;fedal;medal;SM;MS;direct_object_mutation
+25;6;https://www.bbc.com/cymrufyw/erthyglau/c05drnrq3d6o;Yn 1911, enillodd fedal aur yr Academi Frenhinol – yr artist ieuengaf erioed ar y pryd, a'r cyntaf o Gymru;In 1911, he won the gold medal of the Royal Academy - the youngest ever artist at the time, and the first from Wales;Frenhinol;brenhinol;SM;MS;fem_sing_noun_modifier
+26;6;https://www.bbc.com/cymrufyw/erthyglau/c05drnrq3d6o;Yn 1911, enillodd fedal aur yr Academi Frenhinol – yr artist ieuengaf erioed ar y pryd, a'r cyntaf o Gymru;In 1911, he won the gold medal of the Royal Academy - the youngest ever artist at the time, and the first from Wales;pryd;pryd;no_AM;no_mutation;no_mutation
+27;6;https://www.bbc.com/cymrufyw/erthyglau/c05drnrq3d6o;Yn 1911, enillodd fedal aur yr Academi Frenhinol – yr artist ieuengaf erioed ar y pryd, a'r cyntaf o Gymru;In 1911, he won the gold medal of the Royal Academy - the youngest ever artist at the time, and the first from Wales;Gymru;Cymru;SM;L;o
+28;7;https://www.bbc.com/cymrufyw/erthyglau/c05drnrq3d6o;Yn ystod y Rhyfel Byd Cyntaf, gofynnodd hi i'r Gweinidog Rhyfel, David Lloyd George, os y câi ei phenodi yn artist rhyfel.;During the First World War, she asked the Minister for War, David Lloyd George, if she would be appointed a war artist.;phenodi;penodi;AM;L;ei
+29;8;https://www.bbc.com/cymrufyw/erthyglau/ce8p08m35pxo;Mae hwn yn fy atgoffa o fy mhlentyndod ac yn golygu lot i bobl leol hefyd.;This reminds me of my childhood and means a lot to local people too.;mhlentyndod;plentyndod;NM;L;fy
+30;8;https://www.bbc.com/cymrufyw/erthyglau/ce8p08m35pxo;Mae hwn yn fy atgoffa o fy mhlentyndod ac yn golygu lot i bobl leol hefyd.;This reminds me of my childhood and means a lot to local people too.;bobl;pobl;SM;L;i
+31;8;https://www.bbc.com/cymrufyw/erthyglau/ce8p08m35pxo;Mae hwn yn fy atgoffa o fy mhlentyndod ac yn golygu lot i bobl leol hefyd.;This reminds me of my childhood and means a lot to local people too.;leol;lleol;SM;MS;fem_sing_noun_modifier
+32;9;https://www.bbc.com/cymrufyw/erthyglau/ce8p08m35pxo;Wnaeth Dafydd wireddu breuddwyd a phasio ei brawf gyrru bysiau a chael gyrru bws ei hun.;Dafydd made a dream come true and passed his bus driving test and got to drive a bus himself.;bws;bws;no_SM;no_mutation;no_mutation
+33;9;https://www.bbc.com/cymrufyw/erthyglau/ce8p08m35pxo;Wnaeth Dafydd wireddu breuddwyd a phasio ei brawf gyrru bysiau a chael gyrru bws ei hun.;Dafydd made a dream come true and passed his bus driving test and got to drive a bus himself.;Wnaeth;gwneud;SM;MS;inflected_zero_trigger
+34;9;https://www.bbc.com/cymrufyw/erthyglau/ce8p08m35pxo;Wnaeth Dafydd wireddu breuddwyd a phasio ei brawf gyrru bysiau a chael gyrru bws ei hun.;Dafydd made a dream come true and passed his bus driving test and got to drive a bus himself.;wireddu;gwireddu;SM;MS;direct_object_mutation
+35;9;https://www.bbc.com/cymrufyw/erthyglau/ce8p08m35pxo;Wnaeth Dafydd wireddu breuddwyd a phasio ei brawf gyrru bysiau a chael gyrru bws ei hun.;Dafydd made a dream come true and passed his bus driving test and got to drive a bus himself.;phasio;pasio;AM;L;a
+36;9;https://www.bbc.com/cymrufyw/erthyglau/ce8p08m35pxo;Wnaeth Dafydd wireddu breuddwyd a phasio ei brawf gyrru bysiau a chael gyrru bws ei hun.;Dafydd made a dream come true and passed his bus driving test and got to drive a bus himself.;chael;cael;AM;L;a
+37;10;https://www.bbc.com/cymrufyw/erthyglau/cvgz5g1d5zpo;Mae prosiect Hwb y Gors wedi tyfu a thyfu, ac maen nhw bellach wedi agor canolfan newydd.;The Hwb y Gors project has grown and grown, and they have now opened a new centre.;canolfan;canolfan;no_SM;no_mutation;no_mutation
+38;10;https://www.bbc.com/cymrufyw/erthyglau/cvgz5g1d5zpo;Mae prosiect Hwb y Gors wedi tyfu a thyfu, ac maen nhw bellach wedi agor canolfan newydd.;The Hwb y Gors project has grown and grown, and they have now opened a new centre.;tyfu;tyfu;no_AM;no_mutation;no_mutation
+39;10;https://www.bbc.com/cymrufyw/erthyglau/cvgz5g1d5zpo;Mae prosiect Hwb y Gors wedi tyfu a thyfu, ac maen nhw bellach wedi agor canolfan newydd.;The Hwb y Gors project has grown and grown, and they have now opened a new centre.;thyfu;tyfu;AM;L;a
+40;11;https://www.bbc.com/cymrufyw/erthyglau/cvgz5g1d5zpo;Mae rhai wedi cwestiynu faint sy'n poeni am yr hinsawdd erbyn hyn gyda chostau byw'n dominyddu'r sgyrsiau.;Some have questioned how many people care about the climate now with the cost of living dominating the conversations.;poeni;poeni;no_SM;no_mutation;no_mutation
+41;11;https://www.bbc.com/cymrufyw/erthyglau/cvgz5g1d5zpo;Mae rhai wedi cwestiynu faint sy'n poeni am yr hinsawdd erbyn hyn gyda chostau byw'n dominyddu'r sgyrsiau.;Some have questioned how many people care about the climate now with the cost of living dominating the conversations.;chostau;cost;AM;L;gyda
+42;12;https://www.bbc.com/cymrufyw/erthyglau/c7v9519jy8po;Mae Capel Jewin yn nwyrain Llundain yn un o'r ychydig gapeli Cymraeg sydd ar ôl yn y ddinas.;Capel Jewin in east London is one of the few remaining Welsh speaking chapels in the city.;nwyrain;dwyrain;NM;L;yn
+43;12;https://www.bbc.com/cymrufyw/erthyglau/c7v9519jy8po;Mae Capel Jewin yn nwyrain Llundain yn un o'r ychydig gapeli Cymraeg sydd ar ôl yn y ddinas.;Capel Jewin in east London is one of the few remaining Welsh speaking chapels in the city.;gapeli;capeli;SM;L;ychydig
+44;12;https://www.bbc.com/cymrufyw/erthyglau/c7v9519jy8po;Mae Capel Jewin yn nwyrain Llundain yn un o'r ychydig gapeli Cymraeg sydd ar ôl yn y ddinas.;Capel Jewin in east London is one of the few remaining Welsh speaking chapels in the city.;ddinas;dinas;SM;MS;def_art_fem_sing_noun
+45;13;https://www.bbc.com/cymrufyw/erthyglau/c7v9519jy8po;Mae 'na luniau o orffennol cythryblus iawn - ond wedi'r gyflafan fe godwyd capel arall.;There are pictures of a very troubled past - but after the massacre another chapel was built.;luniau;llun;SM;MS;non_normal_word_order
+46;13;https://www.bbc.com/cymrufyw/erthyglau/c7v9519jy8po;Mae 'na luniau o orffennol cythryblus iawn - ond wedi'r gyflafan fe godwyd capel arall.;There are pictures of a very troubled past - but after the massacre another chapel was built.;cythryblus;cythyrblus;no_AM;no_mutation;no_mutation
+47;13;https://www.bbc.com/cymrufyw/erthyglau/c7v9519jy8po;Mae 'na luniau o orffennol cythryblus iawn - ond wedi'r gyflafan fe godwyd capel arall.;There are pictures of a very troubled past - but after the massacre another chapel was built.;orffenol;gorffenol;SM;L;o
+48;13;https://www.bbc.com/cymrufyw/erthyglau/c7v9519jy8po;Mae 'na luniau o orffennol cythryblus iawn - ond wedi'r gyflafan fe godwyd capel arall.;There are pictures of a very troubled past - but after the massacre another chapel was built.;gyflafan;cyflafan;SM;MS;def_art_fem_sing_noun
+49;13;https://www.bbc.com/cymrufyw/erthyglau/c7v9519jy8po;Mae 'na luniau o orffennol cythryblus iawn - ond wedi'r gyflafan fe godwyd capel arall.;There are pictures of a very troubled past - but after the massacre another chapel was built.;godwyd;codwyd;SM;L;fe
+50;14;https://www.bbc.com/cymrufyw/erthyglau/cn0p1xz4jd1o;Bydd adrannau sydd â pherfformiad isel o ran y Gymraeg yn cael cynnig hyfforddiant ychwanegol.;Departments with a low performance in terms of the Welsh language will be offered additional training.;pherfformiad;perfformiad;AM;L;â
+51;15;https://www.bbc.com/cymrufyw/erthyglau/cn0p1xz4jd1o;Bydd polisi newydd yn ceisio cynyddu'r defnydd o'r Gymraeg ymysgn staff a chynghorwyr.;A new policy will try to increase the use of the Welsh language among our staff and councillors.;Gymraeg;Cymraeg;SM;MS;def_art_fem_sing_noun
+52;15;https://www.bbc.com/cymrufyw/erthyglau/cn0p1xz4jd1o;Bydd polisi newydd yn ceisio cynyddu'r defnydd o'r Gymraeg ymysgn staff a chynghorwyr.;A new policy will try to increase the use of the Welsh language among our staff and councillors.;chynghorwyr;cynghorwyr;AM;L;a
+53;16;https://www.bbc.com/cymrufyw/erthyglau/c79jp7g02ldo;Mae gyda hi syndrom ofari polycystig (PCOS), sydd wedi cael effaith ar ei phwysau.;She has polycystic ovary syndrome (PCOS), which has had an effect on her weight.;phwysau;pwysau;AM;L;ei
+54;17;https://www.bbc.com/cymrufyw/erthyglau/c79jp7g02ldo;Dywedodd Bethan nad yw'n ymarferol iddi dalu am y driniaeth yn y tymor hir.;Bethan said that it is not practical for her to pay for the treatment in the long term.;dalu;talu;SM;MS;i_plus_NP
+55;17;https://www.bbc.com/cymrufyw/erthyglau/c79jp7g02ldo;Dywedodd Bethan nad yw'n ymarferol iddi dalu am y driniaeth yn y tymor hir.;Bethan said that it is not practical for her to pay for the treatment in the long term.;driniaeth;triniaeth;SM;MS;def_art_fem_sing_noun
+56;18;https://www.bbc.com/cymrufyw/erthyglau/c3e29x99y10o;Oedd e'n gyfrifol am yr ymchwil ar y cyd â Phrifysgol Abertawe.;He was responsible for the research in conjunction with Swansea University.;gyfrifol;cyfrifol;SM;MS;yn_complement_adj_noun
+57;18;https://www.bbc.com/cymrufyw/erthyglau/c3e29x99y10o;Oedd e'n gyfrifol am yr ymchwil ar y cyd â Phrifysgol Abertawe.;He was responsible for the research in conjunction with Swansea University.;Phrifysgol;prifysgol;AM;L;â
+58;19;https://www.bbc.com/cymrufyw/erthyglau/c3e29x99y10o;Mae ymchwil y tîm wedi'i gyhoeddi yng nghyfnodolyn Global Ecology and Conservation.;The team's research has been published in the journal Global Ecology and Conservation.;gyhoeddi;cyhoeddi;SM;L;i
+59;19;https://www.bbc.com/cymrufyw/erthyglau/c3e29x99y10o;Mae ymchwil y tîm wedi'i gyhoeddi yng nghyfnodolyn Global Ecology and Conservation.;The team's research has been published in the journal Global Ecology and Conservation.;nghyfnodolyn;cyfnodolyn;NM;L;yng
+60;20;https://www.bbc.com/cymrufyw/erthyglau/c302pl8mv7po;Mae strwythurau diogelu'r amgylchedd yng Ngwent wedi'u cryfhau.;Environmental protection structures in Gwent have been strengthened.;Ngwent;Gwent;NM;L;yng
+61;21;https://www.bbc.com/cymrufyw/erthyglau/c302pl8mv7po;Mae maniffesto'r Blaid Werdd yn dweud mai cynnal a chadw yw'r flaenoriaeth.;The Green Party manifesto says maintenance is the priority.;Blaid;plaid;SM;MS;def_art_fem_sing_noun
+62;21;https://www.bbc.com/cymrufyw/erthyglau/c302pl8mv7po;Mae maniffesto'r Blaid Werdd yn dweud mai cynnal a chadw yw'r flaenoriaeth.;The Green Party manifesto says maintenance is the priority.;chadw;cadw;AM;L;a
+63;21;https://www.bbc.com/cymrufyw/erthyglau/c302pl8mv7po;Mae maniffesto'r Blaid Werdd yn dweud mai cynnal a chadw yw'r flaenoriaeth.;The Green Party manifesto says maintenance is the priority.;cynnal;cynnal;no_AM;no_mutation;no_mutation
+64;21;https://www.bbc.com/cymrufyw/erthyglau/c302pl8mv7po;Mae maniffesto'r Blaid Werdd yn dweud mai cynnal a chadw yw'r flaenoriaeth.;The Green Party manifesto says maintenance is the priority.;flaenoriaeth;blaenoriaeth;SM;MS;def_art_fem_sing_noun
+65;22;https://www.bbc.com/cymrufyw/erthyglau/cn9pl9edxdqo;Gan fod cymaint o etholaethau, roedd yn rhaid i'r golygyddion ddewis a dethol lle dylid anfon gohebwyr a chamerâu.;As there were so many constituencies, the editors had to pick and choose where reporters and cameras should be sent.;gohebwyr;gohebwr;no_NM;no_mutation;no_mutation
+66;22;https://www.bbc.com/cymrufyw/erthyglau/cn9pl9edxdqo;Gan fod cymaint o etholaethau, roedd yn rhaid i'r golygyddion ddewis a dethol lle dylid anfon gohebwyr a chamerâu.;As there were so many constituencies, the editors had to pick and choose where reporters and cameras should be sent.;ddewis;dewis;SM;MS;i_plus_NP
+67;22;https://www.bbc.com/cymrufyw/erthyglau/cn9pl9edxdqo;Gan fod cymaint o etholaethau, roedd yn rhaid i'r golygyddion ddewis a dethol lle dylid anfon gohebwyr a chamerâu.;As there were so many constituencies, the editors had to pick and choose where reporters and cameras should be sent.;fod;bod;SM;L;gan
+68;22;https://www.bbc.com/cymrufyw/erthyglau/cn9pl9edxdqo;Gan fod cymaint o etholaethau, roedd yn rhaid i'r golygyddion ddewis a dethol lle dylid anfon gohebwyr a chamerâu.;As there were so many constituencies, the editors had to pick and choose where reporters and cameras should be sent.;chamerau;camera;AM;L;a
+69;23;https://www.bbc.com/cymrufyw/erthyglau/cn9pl9edxdqo;Bydd gan y rhaglenni radio a theledu ohebwyr ym mhob etholaeth.;The radio and television programs will have reporters in each constituency.;theledu;teledu;AM;L;a
+70;23;https://www.bbc.com/cymrufyw/erthyglau/cn9pl9edxdqo;Bydd gan y rhaglenni radio a theledu ohebwyr ym mhob etholaeth.;The radio and television programs will have reporters in each constituency.;ohebwyr;gohebwr;SM;MS;non_normal_word_order
+71;23;https://www.bbc.com/cymrufyw/erthyglau/cn9pl9edxdqo;Bydd gan y rhaglenni radio a theledu ohebwyr ym mhob etholaeth.;The radio and television programs will have reporters in each constituency.;mhob;pobl;NM;L;ym
+72;24;https://www.bbc.com/cymrufyw/erthyglau/cn9pl9edxdqo;Ar ran BBC Cymru, hoffwn longyfarch Dewi yn gynnes wrth iddo gyhoeddi ei ymddeoliad ar ddiwedd gyrfa eithriadol.;On behalf of BBC Wales, I would like to warmly congratulate Dewi as he announces his retirement at the end of an exceptional career.;ran;rhan;SM;L;ar
+73;24;https://www.bbc.com/cymrufyw/erthyglau/cn9pl9edxdqo;Ar ran BBC Cymru, hoffwn longyfarch Dewi yn gynnes wrth iddo gyhoeddi ei ymddeoliad ar ddiwedd gyrfa eithriadol.;On behalf of BBC Wales, I would like to warmly congratulate Dewi as he announces his retirement at the end of an exceptional career.;longyfarch;llongyfarch;SM;MS;direct_object_mutation
+74;24;https://www.bbc.com/cymrufyw/erthyglau/cn9pl9edxdqo;Ar ran BBC Cymru, hoffwn longyfarch Dewi yn gynnes wrth iddo gyhoeddi ei ymddeoliad ar ddiwedd gyrfa eithriadol.;On behalf of BBC Wales, I would like to warmly congratulate Dewi as he announces his retirement at the end of an exceptional career.;gynnes;cynnes;SM;MS;yn_complement_adj_noun
+75;24;https://www.bbc.com/cymrufyw/erthyglau/cn9pl9edxdqo;Ar ran BBC Cymru, hoffwn longyfarch Dewi yn gynnes wrth iddo gyhoeddi ei ymddeoliad ar ddiwedd gyrfa eithriadol.;On behalf of BBC Wales, I would like to warmly congratulate Dewi as he announces his retirement at the end of an exceptional career.;gyhoeddi;cyhoeddi;SM;MS;i_plus_NP
+76;24;https://www.bbc.com/cymrufyw/erthyglau/cn9pl9edxdqo;Ar ran BBC Cymru, hoffwn longyfarch Dewi yn gynnes wrth iddo gyhoeddi ei ymddeoliad ar ddiwedd gyrfa eithriadol.;On behalf of BBC Wales, I would like to warmly congratulate Dewi as he announces his retirement at the end of an exceptional career.;ddiwedd;diwedd;SM;L;ar
+77;25;https://www.bbc.com/cymrufyw/erthyglau/cn9pl9edxdqo;Diolch o galon am gyfraniad arbennig iawn i newyddiaduraeth a darlledu yng Nghymru, a dymuniadau gorau i'r dyfodol.;Thank you from the bottom of my heart for a very special contribution to journalism and broadcasting in Wales, and best wishes for the future.;darlledu;darlledu;no_NM;no_mutation;no_mutation
+78;25;https://www.bbc.com/cymrufyw/erthyglau/cn9pl9edxdqo;Diolch o galon am gyfraniad arbennig iawn i newyddiaduraeth a darlledu yng Nghymru, a dymuniadau gorau i'r dyfodol.;Thank you from the bottom of my heart for a very special contribution to journalism and broadcasting in Wales, and best wishes for the future.;gyfraniad;cyfraniad;SM;L;am
+79;25;https://www.bbc.com/cymrufyw/erthyglau/cn9pl9edxdqo;Diolch o galon am gyfraniad arbennig iawn i newyddiaduraeth a darlledu yng Nghymru, a dymuniadau gorau i'r dyfodol.;Thank you from the bottom of my heart for a very special contribution to journalism and broadcasting in Wales, and best wishes for the future.;Nghymru;Cymru;NM;L;yng
+80;25;https://www.bbc.com/cymrufyw/erthyglau/cn9pl9edxdqo;Diolch o galon am gyfraniad arbennig iawn i newyddiaduraeth a darlledu yng Nghymru, a dymuniadau gorau i'r dyfodol.;Thank you from the bottom of my heart for a very special contribution to journalism and broadcasting in Wales, and best wishes for the future.;galon;calon;SM;L;o
+81;26;https://www.bbc.com/cymrufyw/erthyglau/crrp9z7nd8no;Mae e'n honni bod mewnfudo yn effeithio ar allu ysgolion i addysgu'r Gymraeg ym Mangor.;He claims that immigration affects the ability of schools to teach Welsh in Bangor.;allu;gallu;SM;L;am
+82;26;https://www.bbc.com/cymrufyw/erthyglau/crrp9z7nd8no;Mae e'n honni bod mewnfudo yn effeithio ar allu ysgolion i addysgu'r Gymraeg ym Mangor.;He claims that immigration affects the ability of schools to teach Welsh in Bangor.;Gymraeg;Cymraeg;SM;MS;def_art_fem_sing_noun
+83;26;https://www.bbc.com/cymrufyw/erthyglau/crrp9z7nd8no;Mae e'n honni bod mewnfudo yn effeithio ar allu ysgolion i addysgu'r Gymraeg ym Mangor.;He claims that immigration affects the ability of schools to teach Welsh in Bangor.;Mangor;Bangor;NM;L;ym
+84;27;https://www.bbc.com/cymrufyw/erthyglau/crrp9z7nd8no;Maen nhw wir yn ei chael hi'n anodd ymdopi gyda'r nifer yna o ieithoedd newydd.;They really find it difficult to cope with that many new languages.;chael;cael;AM;L;ei
+85;27;https://www.bbc.com/cymrufyw/erthyglau/crrp9z7nd8no;Maen nhw wir yn ei chael hi'n anodd ymdopi gyda'r nifer yna o ieithoedd newydd.;They really find it difficult to cope with that many new languages.;wir;gwir;SM;MS;adverb_time_place_manner
+86;28;https://www.bbc.com/cymrufyw/erthyglau/ckgpvn79ye8o;Fe weithiodd Gwasanaeth Tân ac Achub Canolbarth a Gorllewin Cymru i fynd i'r afael â thân yn ardal Cwm Elan ym Mhowys.;Mid and West Wales Fire and Rescue Service worked to tackle a fire in the Cwm Elan area of ​​Powys.;Cymru;Cymru;no_AM;no_mutation;no_mutation
+87;28;https://www.bbc.com/cymrufyw/erthyglau/ckgpvn79ye8o;Fe weithiodd Gwasanaeth Tân ac Achub Canolbarth a Gorllewin Cymru i fynd i'r afael â thân yn ardal Cwm Elan ym Mhowys.;Mid and West Wales Fire and Rescue Service worked to tackle a fire in the Cwm Elan area of ​​Powys.;weithiodd;gweithio;SM;L;fe
+88;28;https://www.bbc.com/cymrufyw/erthyglau/ckgpvn79ye8o;Fe weithiodd Gwasanaeth Tân ac Achub Canolbarth a Gorllewin Cymru i fynd i'r afael â thân yn ardal Cwm Elan ym Mhowys.;Mid and West Wales Fire and Rescue Service worked to tackle a fire in the Cwm Elan area of ​​Powys.;fynd;mynd;SM;L;i
+89;28;https://www.bbc.com/cymrufyw/erthyglau/ckgpvn79ye8o;Fe weithiodd Gwasanaeth Tân ac Achub Canolbarth a Gorllewin Cymru i fynd i'r afael â thân yn ardal Cwm Elan ym Mhowys.;Mid and West Wales Fire and Rescue Service worked to tackle a fire in the Cwm Elan area of ​​Powys.;afael;gafael;SM;MS;def_art_fem_sing_noun
+90;28;https://www.bbc.com/cymrufyw/erthyglau/ckgpvn79ye8o;Fe weithiodd Gwasanaeth Tân ac Achub Canolbarth a Gorllewin Cymru i fynd i'r afael â thân yn ardal Cwm Elan ym Mhowys.;Mid and West Wales Fire and Rescue Service worked to tackle a fire in the Cwm Elan area of ​​Powys.;thân;tân;AM;L;â
+91;28;https://www.bbc.com/cymrufyw/erthyglau/ckgpvn79ye8o;Fe weithiodd Gwasanaeth Tân ac Achub Canolbarth a Gorllewin Cymru i fynd i'r afael â thân yn ardal Cwm Elan ym Mhowys.;Mid and West Wales Fire and Rescue Service worked to tackle a fire in the Cwm Elan area of ​​Powys.;Mhowys;Powys;NM;L;ym
+92;29;https://www.bbc.com/cymrufyw/erthyglau/ckgpvn79ye8o;Gyda phenwythnos gŵyl y banc yn agosáu, rydym yn annog pawb i gymryd y risg hon o ddifrif.;With the bank holiday weekend approaching, we urge everyone to take this risk seriously.;phenwythnos;penwythnos;AM;L;gyda
+93;29;https://www.bbc.com/cymrufyw/erthyglau/ckgpvn79ye8o;Gyda phenwythnos gŵyl y banc yn agosáu, rydym yn annog pawb i gymryd y risg hon o ddifrif.;With the bank holiday weekend approaching, we urge everyone to take this risk seriously.;gymryd;cymryd;SM;L;i
+94;29;https://www.bbc.com/cymrufyw/erthyglau/ckgpvn79ye8o;Gyda phenwythnos gŵyl y banc yn agosáu, rydym yn annog pawb i gymryd y risg hon o ddifrif.;With the bank holiday weekend approaching, we urge everyone to take this risk seriously.;ddifrif;difrif;SM;L;o
+95;30;https://www.bbc.com/cymrufyw/erthyglau/czj27yx84y2o;Gwrthododd ddangos ei ddwylo, roedd yn dreisgar a pharhaodd i fod yn fygythiad clir.;He refused to show his hands, was violent and remained a clear threat.;ddangos;dangos;SM;MS;direct_object_mutation
+96;30;https://www.bbc.com/cymrufyw/erthyglau/czj27yx84y2o;Gwrthododd ddangos ei ddwylo, roedd yn dreisgar a pharhaodd i fod yn fygythiad clir.;He refused to show his hands, was violent and remained a clear threat.;ddwylo;dwylo;SM;L;ei
+97;30;https://www.bbc.com/cymrufyw/erthyglau/czj27yx84y2o;Gwrthododd ddangos ei ddwylo, roedd yn dreisgar a pharhaodd i fod yn fygythiad clir.;He refused to show his hands, was violent and remained a clear threat.;dreisgar;treisgar;SM;MS;yn_complement_adj_noun
+98;30;https://www.bbc.com/cymrufyw/erthyglau/czj27yx84y2o;Gwrthododd ddangos ei ddwylo, roedd yn dreisgar a pharhaodd i fod yn fygythiad clir.;He refused to show his hands, was violent and remained a clear threat.;pharhaodd;parhaodd;AM;L;a
+99;30;https://www.bbc.com/cymrufyw/erthyglau/czj27yx84y2o;Gwrthododd ddangos ei ddwylo, roedd yn dreisgar a pharhaodd i fod yn fygythiad clir.;He refused to show his hands, was violent and remained a clear threat.;fod;bod;SM;L;i
+100;30;https://www.bbc.com/cymrufyw/erthyglau/czj27yx84y2o;Gwrthododd ddangos ei ddwylo, roedd yn dreisgar a pharhaodd i fod yn fygythiad clir.;He refused to show his hands, was violent and remained a clear threat.;clir;clir;no_AM;no_mutation;no_mutation
+101;30;https://www.bbc.com/cymrufyw/erthyglau/czj27yx84y2o;Gwrthododd ddangos ei ddwylo, roedd yn dreisgar a pharhaodd i fod yn fygythiad clir.;He refused to show his hands, was violent and remained a clear threat.;fygythiad;mygythiad;SM;MS;yn_complement_adj_noun
+102;31;https://www.bbc.com/cymrufyw/erthyglau/czj27yx84y2o;Rwy'n gwybod bod David a'i gydweithwyr eraill yng Nghynulliad Llundain yn gweithio'n agos gyda Heddlu'r Met.;I know that David and his other colleagues at the London Assembly work closely with the Met Police.;gydweithwyr;cydweithwr;SM;L;i
+103;31;https://www.bbc.com/cymrufyw/erthyglau/czj27yx84y2o;Rwy'n gwybod bod David a'i gydweithwyr eraill yng Nghynulliad Llundain yn gweithio'n agos gyda Heddlu'r Met.;I know that David and his other colleagues at the London Assembly work closely with the Met Police.;Nghynulliad;Cynulliad;NM;L;yng
+104;32;https://www.bbc.com/cymrufyw/erthyglau/c4g4587w9x2o;Fis Ebrill bu farw Siôn, gofalwr Capel Newydd ger y Gaiman ym Mhatagonia yn 92 mlwydd oed.;In April, Siôn, caretaker of Capel Newydd near Gaiman in Patagonia, died at the age of 92.;Fis;mis;SM;MS;adverb_time_place_manner
+105;32;https://www.bbc.com/cymrufyw/erthyglau/c4g4587w9x2o;Fis Ebrill bu farw Siôn, gofalwr Capel Newydd ger y Gaiman ym Mhatagonia yn 92 mlwydd oed.;In April, Siôn, caretaker of Capel Newydd near Gaiman in Patagonia, died at the age of 92.;farw;marw;SM;MS;direct_object_mutation
+106;32;https://www.bbc.com/cymrufyw/erthyglau/c4g4587w9x2o;Fis Ebrill bu farw Siôn, gofalwr Capel Newydd ger y Gaiman ym Mhatagonia yn 92 mlwydd oed.;In April, Siôn, caretaker of Capel Newydd near Gaiman in Patagonia, died at the age of 92.;Mhatagonia;Patagonia;NM;L;ym
+107;32;https://www.bbc.com/cymrufyw/erthyglau/c4g4587w9x2o;Fis Ebrill bu farw Siôn, gofalwr Capel Newydd ger y Gaiman ym Mhatagonia yn 92 mlwydd oed.;In April, Siôn, caretaker of Capel Newydd near Gaiman in Patagonia, died at the age of 92.;mlwydd;blwydd;NM;L;92
+108;33;https://www.bbc.com/cymrufyw/erthyglau/c4g4587w9x2o;Ffermio oedd bywoliaeth Siôn hefyd, ac fe fu'n byw yn yr un ardal yn Nyffryn Coch ar hyd ei oes, a Chapel Newydd gerllaw.;Siôn's livelihood was also farming, and he lived in the same area in Dyffryn Coch all his life, with Chapel Newydd nearby.;fu;bu;SM;L;fe
+109;33;https://www.bbc.com/cymrufyw/erthyglau/c4g4587w9x2o;Ffermio oedd bywoliaeth Siôn hefyd, ac fe fu'n byw yn yr un ardal yn Nyffryn Coch ar hyd ei oes, a Chapel Newydd gerllaw.;Siôn's livelihood was also farming, and he lived in the same area in Dyffryn Coch all his life, with Chapel Newydd nearby.;Nyffryn;dyffryn;NM;L;yn
+110;33;https://www.bbc.com/cymrufyw/erthyglau/c4g4587w9x2o;Ffermio oedd bywoliaeth Siôn hefyd, ac fe fu'n byw yn yr un ardal yn Nyffryn Coch ar hyd ei oes, a Chapel Newydd gerllaw.;Siôn's livelihood was also farming, and he lived in the same area in Dyffryn Coch all his life, with Chapel Newydd nearby.;Chapel;capel;AM;L;a
+111;34;https://www.bbc.com/cymrufyw/erthyglau/cgrp0077w4wo;Dyma olwg ar yr hyn sy'n wynebu Wrecsam a Chasnewydd.;Here is a look at what faces Wrexham and Newport.;olwg;golwg;SM;L;dyma
+112;34;https://www.bbc.com/cymrufyw/erthyglau/cgrp0077w4wo;Dyma olwg ar yr hyn sy'n wynebu Wrecsam a Chasnewydd.;Here is a look at what faces Wrexham and Newport.;Chasnewydd;Casnewydd;AM;L;a
+113;35;https://www.bbc.com/cymrufyw/erthyglau/cgrp0077w4wo;Mae'r frwydr i aros ym mhyramid y gynghrair i lawr i'r diwrnod olaf.;The battle to stay in the league pyramid is down to the last day.;frwydr;brwydr;SM;MS;def_art_fem_sing_noun
+114;35;https://www.bbc.com/cymrufyw/erthyglau/cgrp0077w4wo;Mae'r frwydr i aros ym mhyramid y gynghrair i lawr i'r diwrnod olaf.;The battle to stay in the league pyramid is down to the last day.;mhyramid;pyramid;NM;L;ym
+115;35;https://www.bbc.com/cymrufyw/erthyglau/cgrp0077w4wo;Mae'r frwydr i aros ym mhyramid y gynghrair i lawr i'r diwrnod olaf.;The battle to stay in the league pyramid is down to the last day.;gynghrair;cynghrair;SM;MS;def_art_fem_sing_noun
+116;35;https://www.bbc.com/cymrufyw/erthyglau/cgrp0077w4wo;Mae'r frwydr i aros ym mhyramid y gynghrair i lawr i'r diwrnod olaf.;The battle to stay in the league pyramid is down to the last day.;lawr;llawr;SM;L;i
+117;36;https://www.bbc.com/cymrufyw/erthyglau/cj0p4d21j73o;Ymhlith 16 o etholaethau newydd, Gwynedd Maldwyn yw'r fwyaf yn nhermau ei hardal ddaearyddol.;Among 16 new constituencies, Gwynedd Maldwyn is the largest in terms of its geographical area.;fwyaf;mwyaf;SM;MS;def_art_fem_sing_noun
+118;36;https://www.bbc.com/cymrufyw/erthyglau/cj0p4d21j73o;Ymhlith 16 o etholaethau newydd, Gwynedd Maldwyn yw'r fwyaf yn nhermau ei hardal ddaearyddol.;Among 16 new constituencies, Gwynedd Maldwyn is the largest in terms of its geographical area.;nhermau;termau;NM;L;yn
+119;36;https://www.bbc.com/cymrufyw/erthyglau/cj0p4d21j73o;Ymhlith 16 o etholaethau newydd, Gwynedd Maldwyn yw'r fwyaf yn nhermau ei hardal ddaearyddol.;Among 16 new constituencies, Gwynedd Maldwyn is the largest in terms of its geographical area.;ddaearyddol;daearyddol;SM;MS;fem_sing_noun_modifier
+120;37;https://www.bbc.com/cymrufyw/erthyglau/cj0p4d21j73o;Mae cymunedau yng nghadarnleoedd yr iaith Gymraeg a rhai lle mae'r bobl yn mynd i Loegr i siopa a chael mynediad at wasanaethau.;There are communities in the strongholds of the Welsh language and some where the people go to England to shop and access services.;nghadarnleoedd;cadarnleoedd;NM;L;yng
+121;37;https://www.bbc.com/cymrufyw/erthyglau/cj0p4d21j73o;Mae cymunedau yng nghadarnleoedd yr iaith Gymraeg a rhai lle mae'r bobl yn mynd i Loegr i siopa a chael mynediad at wasanaethau.;There are communities in the strongholds of the Welsh language and some where the people go to England to shop and access services.;Gymraeg;Cymraeg;SM;MS;fem_sing_noun_modifier
+122;37;https://www.bbc.com/cymrufyw/erthyglau/cj0p4d21j73o;Mae cymunedau yng nghadarnleoedd yr iaith Gymraeg a rhai lle mae'r bobl yn mynd i Loegr i siopa a chael mynediad at wasanaethau.;There are communities in the strongholds of the Welsh language and some where the people go to England to shop and access services.;bobl;pobl;SM;MS;def_art_fem_sing_noun
+123;37;https://www.bbc.com/cymrufyw/erthyglau/cj0p4d21j73o;Mae cymunedau yng nghadarnleoedd yr iaith Gymraeg a rhai lle mae'r bobl yn mynd i Loegr i siopa a chael mynediad at wasanaethau.;There are communities in the strongholds of the Welsh language and some where the people go to England to shop and access services.;Loegr;Lloegr;SM;L;i
+124;37;https://www.bbc.com/cymrufyw/erthyglau/cj0p4d21j73o;Mae cymunedau yng nghadarnleoedd yr iaith Gymraeg a rhai lle mae'r bobl yn mynd i Loegr i siopa a chael mynediad at wasanaethau.;There are communities in the strongholds of the Welsh language and some where the people go to England to shop and access services.;chael;cael;AM;L;a
+125;37;https://www.bbc.com/cymrufyw/erthyglau/cj0p4d21j73o;Mae cymunedau yng nghadarnleoedd yr iaith Gymraeg a rhai lle mae'r bobl yn mynd i Loegr i siopa a chael mynediad at wasanaethau.;There are communities in the strongholds of the Welsh language and some where the people go to England to shop and access services.;wasanaethau;gwasanaeth;SM;L;at
+126;38;https://www.bbc.com/cymrufyw/erthyglau/c36r9xx2w80o;Â thîm rygbi merched Cymru'n cystadlu ym Mhencampwriaeth y Chwe Gwlad ar hyn o bryd, mae'r gyfres gyntaf ar gael i'w gwylio.;With the Welsh women's rugby team currently competing in the Six Nations Championship, the first series is available to watch.;thîm;tìm;AM;L;â
+127;38;https://www.bbc.com/cymrufyw/erthyglau/c36r9xx2w80o;Â thîm rygbi merched Cymru'n cystadlu ym Mhencampwriaeth y Chwe Gwlad ar hyn o bryd, mae'r gyfres gyntaf ar gael i'w gwylio.;With the Welsh women's rugby team currently competing in the Six Nations Championship, the first series is available to watch.;Mhencampwriaeth;pencampwriaeth;NM;L;ym
+128;38;https://www.bbc.com/cymrufyw/erthyglau/c36r9xx2w80o;Â thîm rygbi merched Cymru'n cystadlu ym Mhencampwriaeth y Chwe Gwlad ar hyn o bryd, mae'r gyfres gyntaf ar gael i'w gwylio.;With the Welsh women's rugby team currently competing in the Six Nations Championship, the first series is available to watch.;gwylio;gwylio;no_NM;no_mutation;no_mutation
+129;38;https://www.bbc.com/cymrufyw/erthyglau/c36r9xx2w80o;Â thîm rygbi merched Cymru'n cystadlu ym Mhencampwriaeth y Chwe Gwlad ar hyn o bryd, mae'r gyfres gyntaf ar gael i'w gwylio.;With the Welsh women's rugby team currently competing in the Six Nations Championship, the first series is available to watch.;gyfres;cyfres;SM;MS;def_art_fem_sing_noun
+130;38;https://www.bbc.com/cymrufyw/erthyglau/c36r9xx2w80o;Â thîm rygbi merched Cymru'n cystadlu ym Mhencampwriaeth y Chwe Gwlad ar hyn o bryd, mae'r gyfres gyntaf ar gael i'w gwylio.;With the Welsh women's rugby team currently competing in the Six Nations Championship, the first series is available to watch.;gyntaf;cyntaf;SM;MS;fem_sing_noun_modifier
+131;39;https://www.bbc.com/cymrufyw/erthyglau/c36r9xx2w80o;Ond Amdani, nofel i oedolion, oedd y gyfrol gyntaf iddi gyhoeddi yn 1997 pan oedd hi'n 34 mlwydd oed.;But Amdani, a novel for adults, was the first book she published in 1997 when she was 34 years old.;gyfrol;cyfrol;SM;MS;def_art_fem_sing_noun
+132;39;https://www.bbc.com/cymrufyw/erthyglau/c36r9xx2w80o;Ond Amdani, nofel i oedolion, oedd y gyfrol gyntaf iddi gyhoeddi yn 1997 pan oedd hi'n 34 mlwydd oed.;But Amdani, a novel for adults, was the first book she published in 1997 when she was 34 years old.;gyntaf;cyntaf;SM;MS;fem_sing_noun_modifier
+133;39;https://www.bbc.com/cymrufyw/erthyglau/c36r9xx2w80o;Ond Amdani, nofel i oedolion, oedd y gyfrol gyntaf iddi gyhoeddi yn 1997 pan oedd hi'n 34 mlwydd oed.;But Amdani, a novel for adults, was the first book she published in 1997 when she was 34 years old.;gyhoeddi;cyhoeddi;SM;MS;i_plus_NP
+134;39;https://www.bbc.com/cymrufyw/erthyglau/c36r9xx2w80o;Ond Amdani, nofel i oedolion, oedd y gyfrol gyntaf iddi gyhoeddi yn 1997 pan oedd hi'n 34 mlwydd oed.;But Amdani, a novel for adults, was the first book she published in 1997 when she was 34 years old.;mlwydd;blwydd;NM;L;34
+135;40;https://www.bbc.com/cymrufyw/erthyglau/cvgzd5839gpo;Byddwn yn eu hatgoffa o'u cyfrifoldebau fel aelodau etholedig yng nghyd-destun yr iaith Gymraeg.;We will remind them of their responsibilities as elected members in the context of the Welsh language.;cyfrifoldebau;cyfrifoldeb;no_SM;no_mutation;no_mutation
+136;40;https://www.bbc.com/cymrufyw/erthyglau/cvgzd5839gpo;Byddwn yn eu hatgoffa o'u cyfrifoldebau fel aelodau etholedig yng nghyd-destun yr iaith Gymraeg.;We will remind them of their responsibilities as elected members in the context of the Welsh language.;nghyd-destun;cyd-destun;NM;L;yng
+137;40;https://www.bbc.com/cymrufyw/erthyglau/cvgzd5839gpo;Byddwn yn eu hatgoffa o'u cyfrifoldebau fel aelodau etholedig yng nghyd-destun yr iaith Gymraeg.;We will remind them of their responsibilities as elected members in the context of the Welsh language.;Gymraeg;Cymraeg;SM;MS;fem_sing_noun_modifier
+138;41;https://www.bbc.com/cymrufyw/erthyglau/cvgzd5839gpo;Rydym mynd i gyrraedd ein targed o filiwn o siaradwyr Cymraeg a dyblu'r defnydd o'r Gymraeg ym mywyd beunyddiol erbyn 2050.;We are going to reach our target of one million Welsh speakers and double the use of the Welsh language in daily life by 2050.;gyrraedd;cyrraedd;SM;L;i
+139;41;https://www.bbc.com/cymrufyw/erthyglau/cvgzd5839gpo;Rydym mynd i gyrraedd ein targed o filiwn o siaradwyr Cymraeg a dyblu'r defnydd o'r Gymraeg ym mywyd beunyddiol erbyn 2050.;We are going to reach our target of one million Welsh speakers and double the use of the Welsh language in daily life by 2050.;filiwn;miliwn;SM;L;o
+140;41;https://www.bbc.com/cymrufyw/erthyglau/cvgzd5839gpo;Rydym mynd i gyrraedd ein targed o filiwn o siaradwyr Cymraeg a dyblu'r defnydd o'r Gymraeg ym mywyd beunyddiol erbyn 2050.;We are going to reach our target of one million Welsh speakers and double the use of the Welsh language in daily life by 2050.;Gymraeg;Cymraeg;SM;MS;def_art_fem_sing_noun
+141;41;https://www.bbc.com/cymrufyw/erthyglau/cvgzd5839gpo;Rydym mynd i gyrraedd ein targed o filiwn o siaradwyr Cymraeg a dyblu'r defnydd o'r Gymraeg ym mywyd beunyddiol erbyn 2050.;We are going to reach our target of one million Welsh speakers and double the use of the Welsh language in daily life by 2050.;mywyd;bywyd;NM;L;ym
+142;42;https://www.bbc.com/cymrufyw/erthyglau/ckgpwdjvy00o;Mae masnachwyr mewn marchnad yng Nghaerdydd wedi dweud eu bod yn teimlo'n dorcalonnus.;Traders at a market in Cardiff have said they feel heartbroken.;Nghaerdydd;Caerdydd;NM;L;yng
+143;42;https://www.bbc.com/cymrufyw/erthyglau/ckgpwdjvy00o;Mae masnachwyr mewn marchnad yng Nghaerdydd wedi dweud eu bod yn teimlo'n dorcalonnus.;Traders at a market in Cardiff have said they feel heartbroken.;dorcalonnus;torcalonnus;SM;MS;yn_complement_adj_noun
+144;43;https://www.bbc.com/cymrufyw/erthyglau/ckgpwdjvy00o;Mae'r farchnad, sy'n boblogaidd ymhlith prynwyr propiau teledu a chasglwyr, wedi bod ar agor ers 12 mlynedd.;The market, which is popular with TV prop buyers and collectors, has been open for 12 years.;farchnad;marchnad;SM;MS;def_art_fem_sing_noun
+145;43;https://www.bbc.com/cymrufyw/erthyglau/ckgpwdjvy00o;Mae'r farchnad, sy'n boblogaidd ymhlith prynwyr propiau teledu a chasglwyr, wedi bod ar agor ers 12 mlynedd.;The market, which is popular with TV prop buyers and collectors, has been open for 12 years.;boblogaidd;poblogaidd;SM;MS;yn_complement_adj_noun
+146;43;https://www.bbc.com/cymrufyw/erthyglau/ckgpwdjvy00o;Mae'r farchnad, sy'n boblogaidd ymhlith prynwyr propiau teledu a chasglwyr, wedi bod ar agor ers 12 mlynedd.;The market, which is popular with TV prop buyers and collectors, has been open for 12 years.;chasglwyr;casglwr;AM;L;a
+147;43;https://www.bbc.com/cymrufyw/erthyglau/ckgpwdjvy00o;Mae'r farchnad, sy'n boblogaidd ymhlith prynwyr propiau teledu a chasglwyr, wedi bod ar agor ers 12 mlynedd.;The market, which is popular with TV prop buyers and collectors, has been open for 12 years.;mlynedd;blwyddyn;NM;L;12
+148;44;https://www.bbc.com/cymrufyw/erthyglau/cp8d3161xlzo;Mae'n anodd gweld amser i fod yn chi ac ymlacio a chael amser hamddenol gyda'ch teulu chi.;It's hard to find time to be yourself and relax and have some relaxing time with your family.;fod;bod;SM;L;i
+149;44;https://www.bbc.com/cymrufyw/erthyglau/cp8d3161xlzo;Mae'n anodd gweld amser i fod yn chi ac ymlacio a chael amser hamddenol gyda'ch teulu chi.;It's hard to find time to be yourself and relax and have some relaxing time with your family.;chael;cael;AM;L;a
+150;45;https://www.bbc.com/cymrufyw/erthyglau/cp8d3161xlzo;Mae Dewi, 15, yn falch bod y gwaith yn cael ei wasgaru dros ddwy flynedd.;Dewi, 15, is proud that the work is spread over two years.;falch;balch;SM;MS;yn_complement_adj_noun
+151;45;https://www.bbc.com/cymrufyw/erthyglau/cp8d3161xlzo;Mae Dewi, 15, yn falch bod y gwaith yn cael ei wasgaru dros ddwy flynedd.;Dewi, 15, is proud that the work is spread over two years.;wasgaru;gwasgaru;SM;L;ei
+152;45;https://www.bbc.com/cymrufyw/erthyglau/cp8d3161xlzo;Mae Dewi, 15, yn falch bod y gwaith yn cael ei wasgaru dros ddwy flynedd.;Dewi, 15, is proud that the work is spread over two years.;ddwy;dau;SM;L;dros
+153;45;https://www.bbc.com/cymrufyw/erthyglau/cp8d3161xlzo;Mae Dewi, 15, yn falch bod y gwaith yn cael ei wasgaru dros ddwy flynedd.;Dewi, 15, is proud that the work is spread over two years.;flynedd;blwyddyn;SM;L;ddwy
+154;46;https://www.bbc.com/cymrufyw/erthyglau/cn7pyjzllnro;Mae Siôn, sy'n derbyn gofal yng ngofal Bryn Mawr yng Nghaernarfon, yn falch iawn o'u cael yno;Siôn, who is cared for at Bryn Mawr care in Caernarfon, is very proud to have them there;ngofal;cofal;NM;L;yng
+155;46;https://www.bbc.com/cymrufyw/erthyglau/cn7pyjzllnro;Mae Siôn, sy'n derbyn gofal yng ngofal Bryn Mawr yng Nghaernarfon, yn falch iawn o'u cael yno;Siôn, who is cared for at Bryn Mawr care in Caernarfon, is very proud to have them there;Nghaernarfon;Caernarfon;NM;L;yng
+156;46;https://www.bbc.com/cymrufyw/erthyglau/cn7pyjzllnro;Mae Siôn, sy'n derbyn gofal yng ngofal Bryn Mawr yng Nghaernarfon, yn falch iawn o'u cael yno;Siôn, who is cared for at Bryn Mawr care in Caernarfon, is very proud to have them there;falch;balch;SM;MS;yn_complement_adj_noun
+157;47;https://www.bbc.com/cymrufyw/erthyglau/cn7pyjzllnro;Mae'n gallu bod yn anodd ofnadwy i recriwtio pobl leol yma ym Mryn Mawr.;It can be terribly difficult to recruit local people here in Bryn Mawr.;leol;lleol;SM;MS;fem_sing_noun_modifier
+158;47;https://www.bbc.com/cymrufyw/erthyglau/cn7pyjzllnro;Mae'n gallu bod yn anodd ofnadwy i recriwtio pobl leol yma ym Mryn Mawr.;It can be terribly difficult to recruit local people here in Bryn Mawr.;gallu;gallu;no_SM;no_mutation;no_mutation
+159;47;https://www.bbc.com/cymrufyw/erthyglau/cn7pyjzllnro;Mae'n gallu bod yn anodd ofnadwy i recriwtio pobl leol yma ym Mryn Mawr.;It can be terribly difficult to recruit local people here in Bryn Mawr.;Mryn;Bryn;NM;L;ym
+160;48;https://www.bbc.com/cymrufyw/erthyglau/c93x53lgxq7o;Mae ei geiriau Wele'n Sefyll Rhwng y Myrtwydd yn cael ei chanu fwy nag unrhyw emyn arall.;Her words Wele'n Sefyll Rwng y Myrtwydd are sung more than any other hymn.;chanu;canu;AM;L;ei
+161;48;https://www.bbc.com/cymrufyw/erthyglau/c93x53lgxq7o;Mae ei geiriau Wele'n Sefyll Rhwng y Myrtwydd yn cael ei chanu fwy nag unrhyw emyn arall.;Her words Wele'n Sefyll Rwng y Myrtwydd are sung more than any other hymn.;fwy;mwy;SM;MS;adverb_time_place_manner
+162;49;https://www.bbc.com/cymrufyw/erthyglau/c93x53lgxq7o;Fe ges wefr a fy ngwefru'r noson honno, a byth ers hynny rydw i wedi bod ar daith o ddod i adnabod Ann.;I was thrilled and charged that night, and ever since then I have been on a journey of getting to know Ann.;ces;cael;SM;L;fe
+163;49;https://www.bbc.com/cymrufyw/erthyglau/c93x53lgxq7o;Fe ges wefr a fy ngwefru'r noson honno, a byth ers hynny rydw i wedi bod ar daith o ddod i adnabod Ann.;I was thrilled and charged that night, and ever since then I have been on a journey of getting to know Ann.;wefr;gwefr;SM;MS;direct_object_mutation
+164;49;https://www.bbc.com/cymrufyw/erthyglau/c93x53lgxq7o;Fe ges wefr a fy ngwefru'r noson honno, a byth ers hynny rydw i wedi bod ar daith o ddod i adnabod Ann.;I was thrilled and charged that night, and ever since then I have been on a journey of getting to know Ann.;ngwefru;gwefru;NM;L;fy
+165;49;https://www.bbc.com/cymrufyw/erthyglau/c93x53lgxq7o;Fe ges wefr a fy ngwefru'r noson honno, a byth ers hynny rydw i wedi bod ar daith o ddod i adnabod Ann.;I was thrilled and charged that night, and ever since then I have been on a journey of getting to know Ann.;daith;taith;SM;L;ar
+166;49;https://www.bbc.com/cymrufyw/erthyglau/c93x53lgxq7o;Fe ges wefr a fy ngwefru'r noson honno, a byth ers hynny rydw i wedi bod ar daith o ddod i adnabod Ann.;I was thrilled and charged that night, and ever since then I have been on a journey of getting to know Ann.;ddod;dod;SM;L;o
+167;50;https://www.bbc.com/cymrufyw/erthyglau/c5ye08l4pneo;Mae diffoddwyr tân yn delio ag achosion o danau gwyllt ym Mhowys.;Firefighters are dealing with wildfires in Powys.;danau;tanau;SM;L;o
+168;50;https://www.bbc.com/cymrufyw/erthyglau/c5ye08l4pneo;Mae diffoddwyr tân yn delio ag achosion o danau gwyllt ym Mhowys.;Firefighters are dealing with wildfires in Powys.;Mhowys;Powys;AM;L;ym
+169;51;https://www.bbc.com/cymrufyw/erthyglau/c5ye08l4pneo;"Mae'r Ymddiriedolaeth Genedlaethol wedi cau Ystâd Hafod ym Mhont-rhyd-y-groes i ymwelwyr ""fel mesur rhagofal"" oherwydd y tân yng Nghwm Elan.";"The National Trust has closed the Hafod Estate in Pont-rhyd-y-groes to visitors ""as a precautionary measure"" due to the fire in the Elan Valley.";tân;tân;no_NM;no_mutation;no_mutation
+170;51;https://www.bbc.com/cymrufyw/erthyglau/c5ye08l4pneo;"Mae'r Ymddiriedolaeth Genedlaethol wedi cau Ystâd Hafod ym Mhont-rhyd-y-groes i ymwelwyr ""fel mesur rhagofal"" oherwydd y tân yng Nghwm Elan.";"The National Trust has closed the Hafod Estate in Pont-rhyd-y-groes to visitors ""as a precautionary measure"" due to the fire in the Elan Valley.";Genedlaethol;Cenedlaethol;SM;MS;fem_sing_noun_modifier
+171;51;https://www.bbc.com/cymrufyw/erthyglau/c5ye08l4pneo;"Mae'r Ymddiriedolaeth Genedlaethol wedi cau Ystâd Hafod ym Mhont-rhyd-y-groes i ymwelwyr ""fel mesur rhagofal"" oherwydd y tân yng Nghwm Elan.";"The National Trust has closed the Hafod Estate in Pont-rhyd-y-groes to visitors ""as a precautionary measure"" due to the fire in the Elan Valley.";Mhont-rhyd-y-groes;Pont-rhyd-y-groes;NM;L;ym
+172;51;https://www.bbc.com/cymrufyw/erthyglau/c5ye08l4pneo;"Mae'r Ymddiriedolaeth Genedlaethol wedi cau Ystâd Hafod ym Mhont-rhyd-y-groes i ymwelwyr ""fel mesur rhagofal"" oherwydd y tân yng Nghwm Elan.";"The National Trust has closed the Hafod Estate in Pont-rhyd-y-groes to visitors ""as a precautionary measure"" due to the fire in the Elan Valley.";Nghwm;cwm;NM;L;yng
+173;52;https://www.bbc.com/cymrufyw/erthyglau/cd6py6pnpd3o;Fe wnaeth y cwpl brynu eu cartref cyntaf gyda'i gilydd bum mlynedd yn ôl, gyda golygfa o draeth Ynys y Barri.;The couple bought their first home together five years ago, with a view of Barry Island beach.;wnaeth;gwneud;SM;L;fe
+174;52;https://www.bbc.com/cymrufyw/erthyglau/cd6py6pnpd3o;Fe wnaeth y cwpl brynu eu cartref cyntaf gyda'i gilydd bum mlynedd yn ôl, gyda golygfa o draeth Ynys y Barri.;The couple bought their first home together five years ago, with a view of Barry Island beach.;brynu;prynu;SM;MS;direct_object_mutation
+175;52;https://www.bbc.com/cymrufyw/erthyglau/cd6py6pnpd3o;Fe wnaeth y cwpl brynu eu cartref cyntaf gyda'i gilydd bum mlynedd yn ôl, gyda golygfa o draeth Ynys y Barri.;The couple bought their first home together five years ago, with a view of Barry Island beach.;bum;pump;SM;MS;adverb_time_place_manner
+176;52;https://www.bbc.com/cymrufyw/erthyglau/cd6py6pnpd3o;Fe wnaeth y cwpl brynu eu cartref cyntaf gyda'i gilydd bum mlynedd yn ôl, gyda golygfa o draeth Ynys y Barri.;The couple bought their first home together five years ago, with a view of Barry Island beach.;cartref;cartref;no_AM;no_mutation;no_mutation
+177;52;https://www.bbc.com/cymrufyw/erthyglau/cd6py6pnpd3o;Fe wnaeth y cwpl brynu eu cartref cyntaf gyda'i gilydd bum mlynedd yn ôl, gyda golygfa o draeth Ynys y Barri.;The couple bought their first home together five years ago, with a view of Barry Island beach.;mlynedd;blwyddyn;NM;L;bum
+178;52;https://www.bbc.com/cymrufyw/erthyglau/cd6py6pnpd3o;Fe wnaeth y cwpl brynu eu cartref cyntaf gyda'i gilydd bum mlynedd yn ôl, gyda golygfa o draeth Ynys y Barri.;The couple bought their first home together five years ago, with a view of Barry Island beach.;Barri;Barri;no_NM;no_mutation;no_mutation
+179;52;https://www.bbc.com/cymrufyw/erthyglau/cd6py6pnpd3o;Fe wnaeth y cwpl brynu eu cartref cyntaf gyda'i gilydd bum mlynedd yn ôl, gyda golygfa o draeth Ynys y Barri.;The couple bought their first home together five years ago, with a view of Barry Island beach.;draeth;traeth;SM;L;o
+180;53;https://www.bbc.com/cymrufyw/erthyglau/cd6py6pnpd3o;Dach chi'n ymddiried mewn cyfreithwyr i ddelio gyda phethau fel hyn.;You trust lawyers to deal with things like this.;cyfreithwyr;cyfreithwyr;no_NM;no_mutation;no_mutation
+181;53;https://www.bbc.com/cymrufyw/erthyglau/cd6py6pnpd3o;Dach chi'n ymddiried mewn cyfreithwyr i ddelio gyda phethau fel hyn.;You trust lawyers to deal with things like this.;phethau;pethau;AM;L;gyda
+182;54;https://www.bbc.com/cymrufyw/erthyglau/cx21gz305l2o;North hefyd ydy'r unig Gymro i chwarae yn rownd yr wyth olaf yng Nghwpan y Byd ar bedair achlysur.;North is also the only Welshman to play in the quarter-finals of the World Cup on four occasions.;Byd;byd;no_SM;no_mutation;no_mutation
+183;54;https://www.bbc.com/cymrufyw/erthyglau/cx21gz305l2o;North hefyd ydy'r unig Gymro i chwarae yn rownd yr wyth olaf yng Nghwpan y Byd ar bedair achlysur.;North is also the only Welshman to play in the quarter-finals of the World Cup on four occasions.;Nghwpan;cwpan;NM;L;yng
+184;55;https://www.bbc.com/cymrufyw/erthyglau/cx21gz305l2o;Ychwanegodd bod sawl moment sy'n golygu ei bod hi'n anodd crisialu a chrynhoi ei yrfa.;He added that there are several moments which mean that it is difficult to crystallize and summarize his career.;crisialu;crisialu;no_SM;no_mutation;no_mutation
+185;55;https://www.bbc.com/cymrufyw/erthyglau/cx21gz305l2o;Ychwanegodd bod sawl moment sy'n golygu ei bod hi'n anodd crisialu a chrynhoi ei yrfa.;He added that there are several moments which mean that it is difficult to crystallize and summarize his career.;chrynhoi;crynhoi;AM;L;a
+186;56;https://www.bbc.com/cymrufyw/erthyglau/clypljlel3xo;Mae 200 tunnell o wastraff masnachol wedi mynd ar dân ar safle ym Mhort Talbot.;200 tonnes of commercial waste has caught fire on a site in Port Talbot.;tunnell;tunnell;no_NM;no_mutation;no_mutation
+187;56;https://www.bbc.com/cymrufyw/erthyglau/clypljlel3xo;Mae 200 tunnell o wastraff masnachol wedi mynd ar dân ar safle ym Mhort Talbot.;200 tonnes of commercial waste has caught fire on a site in Port Talbot.;mynd;mynd;no_SM;no_mutation;no_mutation
+188;56;https://www.bbc.com/cymrufyw/erthyglau/clypljlel3xo;Mae 200 tunnell o wastraff masnachol wedi mynd ar dân ar safle ym Mhort Talbot.;200 tonnes of commercial waste has caught fire on a site in Port Talbot.;Mhort;Port;NM;L;ym
+189;57;https://www.bbc.com/cymrufyw/erthyglau/clyp8j0611po;Maen nhw'n annog pobl i ddilyn cynghorion diogelwch er mwyn arbed cefn gwlad a chymunedau rhag effeithiau tanau o'r fath.;They encourage people to follow safety advice in order to save the countryside and communities from the effects of such fires.;gwlad;gwlad;no_NM;no_mutation;no_mutation
+190;57;https://www.bbc.com/cymrufyw/erthyglau/clyp8j0611po;Maen nhw'n annog pobl i ddilyn cynghorion diogelwch er mwyn arbed cefn gwlad a chymunedau rhag effeithiau tanau o'r fath.;They encourage people to follow safety advice in order to save the countryside and communities from the effects of such fires.;pobl;pobl;no_SM;no_mutation;no_mutation
+191;57;https://www.bbc.com/cymrufyw/erthyglau/clyp8j0611po;Maen nhw'n annog pobl i ddilyn cynghorion diogelwch er mwyn arbed cefn gwlad a chymunedau rhag effeithiau tanau o'r fath.;They encourage people to follow safety advice in order to save the countryside and communities from the effects of such fires.;chymunedau;cymuned;AM;L;a
+192;58;https://www.bbc.com/cymrufyw/erthyglau/clyp8j0611po;Bydd yr hofrennydd yn gollwng dŵr ar ardaloedd lle mae adar yn nythu a lle mae mamaliaid bach a phlanhigion prin.;The helicopter will drop water on areas where birds nest and where there are small mammals and rare plants.;bach;bach;no_NM;no_mutation;no_mutation
+193;58;https://www.bbc.com/cymrufyw/erthyglau/clyp8j0611po;Bydd yr hofrennydd yn gollwng dŵr ar ardaloedd lle mae adar yn nythu a lle mae mamaliaid bach a phlanhigion prin.;The helicopter will drop water on areas where birds nest and where there are small mammals and rare plants.;dŵr;dŵr;no_SM;no_mutation;no_mutation
+194;58;https://www.bbc.com/cymrufyw/erthyglau/clyp8j0611po;Bydd yr hofrennydd yn gollwng dŵr ar ardaloedd lle mae adar yn nythu a lle mae mamaliaid bach a phlanhigion prin.;The helicopter will drop water on areas where birds nest and where there are small mammals and rare plants.;phlanhigion;planhigion;AM;L;a
+195;59;https://www.bbc.com/cymrufyw/erthyglau/clyp8j0611po;Mae'r broblem wedi bod yn digwydd ers sawl blwyddyn a bod pobl leol yn flin gyda Chyngor Sir y Fflint am beidio â gweithredu.;The problem has been happening for several years and local people are angry with Flintshire County Council for not taking action.;digwydd;digwydd;no_NM;no_mutation;no_mutation
+196;59;https://www.bbc.com/cymrufyw/erthyglau/clyp8j0611po;Mae'r broblem wedi bod yn digwydd ers sawl blwyddyn a bod pobl leol yn flin gyda Chyngor Sir y Fflint am beidio â gweithredu.;The problem has been happening for several years and local people are angry with Flintshire County Council for not taking action.;Chyngor;cyngor;AM;L;gyda
+197;60;https://www.bbc.com/cymrufyw/erthyglau/cn0plr6zyr6o;Mae cost diffyg gweithredu yn costio i bobl, gyda chyfuniad gwenwynig o gyflogau isel a biliau uchel.;The cost of inaction costs people, with a toxic combination of low wages and high bills.;costio;costio;no_NM;no_mutation;no_mutation
+198;60;https://www.bbc.com/cymrufyw/erthyglau/cn0plr6zyr6o;Mae cost diffyg gweithredu yn costio i bobl, gyda chyfuniad gwenwynig o gyflogau isel a biliau uchel.;The cost of inaction costs people, with a toxic combination of low wages and high bills.;gwenwynig;gwenwynig;no_SM;no_mutation;no_mutation
+199;60;https://www.bbc.com/cymrufyw/erthyglau/cn0plr6zyr6o;Mae cost diffyg gweithredu yn costio i bobl, gyda chyfuniad gwenwynig o gyflogau isel a biliau uchel.;The cost of inaction costs people, with a toxic combination of low wages and high bills.;chyfuniad;cyfuniad;AM;L;gyda
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
