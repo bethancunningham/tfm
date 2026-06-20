@@ -15,12 +15,15 @@ The project combines:
 
 ## Workflow
 ### Phase 1 - Dataset creation
-- [Treebank dataset creation script](code/dataset_creation/dataset_creation_treebank.py): takes [Treebank source files and list of feminine singular nouns](source_files), outputs the files for manual annotation where automatic annotation failed, takes the [completed manual annotations](manual_annotations), then outputs the final [Simple Treebank dataset](initial_treebank_dataset.py) and [Expanded Treebank dataset](expanded_treebank_dataset.py)
-- [News dataset creation script](code/dataset_creation/dataset_creation_news.py): takes [News sentences file](datasets/sentences_news_articles_semicolon.csv), outputs the final [Simple News dataset](initial_news_dataset.py) and [Expanded News dataset](expanded_news_dataset.py)
+- [Treebank dataset creation script](code/dataset_creation/dataset_creation_treebank.py): takes [Treebank source files and list of feminine singular nouns](source_files), outputs the files for manual annotation where automatic annotation failed, takes the [completed manual annotations](manual_annotations), then outputs the final [Simple Treebank dataset](datasets/initial_treebank_dataset.py) and [Expanded Treebank dataset](datasets/expanded_treebank_dataset.py)
+- [News dataset creation script](code/dataset_creation/dataset_creation_news.py): takes [News sentences file](datasets/sentences_news_articles_semicolon.csv), outputs the final [Simple News dataset](datasets/initial_news_dataset.csv) and [Expanded News dataset](datasets/expanded_news_dataset.csv)
 
 ### Phase 2 - Pipeline to assign NLL
-
+- [Treebank pipeline](code/pipeline/Pipeline_tfm_treebank_dataset.ipynb) to load all models and assign NLL to sentences in minimal pairs + logit lens implementation. Takes [Expanded Treebank dataset](datasets/expanded_treebank_dataset.csv) and [Simple Treebank dataset](datasets/initial_treebank_dataset.csv) and outputs [Expanded results](expanded_results), [Simple results](initial_results) and [logit lens results](logit_lens_results)
+- [News pipeline](code/pipeline/Pipeline_tfm_news_dataset.ipynb) to load all models and assign NLL to sentences in minimal pairs. Takes [Expanded News dataset](datasets/expanded_news_dataset.csv) and [Simple Treebank dataset](datasets/initial_treebank_dataset.csv) and outputs [Expanded results](expanded_results_small), [Simple results](initial_results_small)
 
 ### Phase 3 - Data cleaning
+- [Results cleaning scripts](code/results_cleaning) to prepare results for analysis. Takes [Simple Treebank results](initial_results), [Expanded Treebank results](expanded_results), [Simple News results](initial_results_small) and [Expanded News results](expanded_results_small) and outputs [clean results](clean_results)
 
 ### Phase 4 - Data analysis
+- 
