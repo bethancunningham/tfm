@@ -169,16 +169,16 @@ def classify_trigger(row) :
     form = row["correct_form"]
     before_previous_word = row["before_previous_word"]
 
-    if mut == "NM":
+    if mut == "NM" :
         return "L"
 
-    if mut == "AM":
+    if mut == "AM" :
         if prev and prev.lower() in lexical_triggers_AM:
             return "L"
         else:
             return "MS"
 
-    if mut == "SM":
+    if mut == "SM" :
         if form.lower() in lexicalised_mut :
             return "LEXICALISED"
         elif prev and prev.lower() in lexical_triggers_SM:
@@ -216,7 +216,7 @@ print("No. instances of mutation after removal of h-prothesis and errors and lex
 
 adverbs_time_place_manner = ["ddim", "fyth", "flwyddyn", "ddydd", "fis", "flynyddoedd", "fore", "drannoeth", "bryd", "droeon", "dramor", "ledled", "drwy", "gynt", "gynta", "gyntaf", "fin", "gwbl"]
 
-def assign_specific_trigger(row):
+def assign_specific_trigger(row) :
     """Function to identify specific mutation trigger.
     If lexical trigger: trigger is previous word.
     If morphosyntactic trigger: trigger can be direct object, vocative, adjective before noun, etc.
@@ -245,25 +245,25 @@ def assign_specific_trigger(row):
     head_number = head_feats.get("Number") or {}
 
     # Lexical triggers
-    if trig_type == "L":
+    if trig_type == "L" :
         if prev_word in {'"', '"', '"', '-'}: # dealing with cases of punctuation before mutated word
             return before_previous_word
         else :
             return prev_word
 
     # Morphosyntactic triggers of aspirate mutation (all negative zero trigger)
-    if mut == "AM" and trig_type == "MS":
+    if mut == "AM" and trig_type == "MS" :
         return "neg_zero_trigger_AM"
 
     # Morphosyntactic triggers of soft mutation
-    if mut == "SM" and trig_type == "MS":
+    if mut == "SM" and trig_type == "MS" :
     
         # Cases where preceding word is punctuation
-        if prev_word in {'"', '"', '"', '-'}:
+        if prev_word in {'"', '"', '"', '-'} :
             prev_word = before_previous_word
 
         # yn as complement marker before noun or adjective but not place
-        if prev_word and prev_word.lower() in {"yn", "'n"}: # and word is noun or adj but not place - "not place" already accounted for because NM not SM
+        if prev_word and prev_word.lower() in {"yn", "'n"} : # and word is noun or adj but not place - "not place" already accounted for because NM not SM
             if pos in {"ADJ", "NOUN"} :
                 return "yn_complement_adj_noun"
             
@@ -292,7 +292,7 @@ def assign_specific_trigger(row):
                     return "num_fem_sing_noun"
 
         # Noun preceded by adjective
-        if pos == "NOUN" and prev_pos == "ADJ" and verb_form != "Vnoun":
+        if pos == "NOUN" and prev_pos == "ADJ" and verb_form != "Vnoun" :
             return "adj_before_noun"
 
         # Adjective or noun modifying feminine singular noun
@@ -352,7 +352,6 @@ ms_df = df[df["trigger_type"] == "MS"]
 trigger_counts = ms_df["specific_trigger"].value_counts()
 print("Initial specific trigger counts:", trigger_counts, "\n-------")
 
-"""CHECKED UP TO HERE"""
 """
 # Diagnosis of unknown triggers: exporting csv for manual annotation
 
@@ -390,7 +389,7 @@ df["specific_trigger"] = df.apply(apply_manual_fallback, axis=1)
 
 df = df[~df["specific_trigger"].isin(["lexicalised", "lexicalised_draw", "lexicalised_remove", "error"])]
 
-# Getting final specificç_trigger counts after manual annotation
+# Getting final specific_trigger counts after manual annotation
 
 new_ms_df = df[df["trigger_type"] == "MS"]
 new_trigger_counts = new_ms_df["specific_trigger"].value_counts()
@@ -420,11 +419,11 @@ for mut_type in ["SM", "NM", "AM"]:
 
 no_mutation_data = {"SM": [], "NM": [], "AM": []}
 
-for sentence in merged_tokenlists:
+for sentence in merged_tokenlists :
     sent_id = sentence.metadata.get("sent_id")
     text = sentence.metadata.get("text")
 
-    for i, token in enumerate(sentence):
+    for i, token in enumerate(sentence) :
         prev_token = sentence[i-1] if i > 0 else None
         for mut_type, unmutated_list in unmutated.items():
             if token["form"] in unmutated_list:
@@ -445,7 +444,7 @@ for sentence in merged_tokenlists:
 # Sampling 100 from each and assigning mutation type label
 
 no_mutation_samples = []
-for mut_type, data in no_mutation_data.items():
+for mut_type, data in no_mutation_data.items() :
     sample = pd.DataFrame(data).sample(n=100, random_state=123)
     sample["mutation_type"] = f"no_{mut_type}"
     no_mutation_samples.append(sample)
@@ -503,7 +502,7 @@ print("Mutation type counts with mutation and no_mutation items:", df_final["mut
 
 # Making incorrect sentences for minimal pairs
 
-def make_incorrect_sentence(row):
+def make_incorrect_sentence(row) :
     """Function to replace correct_form in sentence with incorrect_form to create incorrect_sentence for minimal pair. Ensures that correct instance of correct_form
     is selected where the word is repeated in the sentence, based on its location in the sentence and its previous word."""
     sentence = row["sentence"]
@@ -521,27 +520,27 @@ def make_incorrect_sentence(row):
             contexts.extend(["iddo", "iddi", "iddynt", "iddyn"])
 
     def find_matches(context):
-        """Function to search for word plus its context to ensure the correct occurrence of the word. Returns matches."""
+        """Function to search for word plus its context to ensure the correct occurrence of the word. Returns matches.""" # Needed because a word can appear more than once in the sentence - need to find right one
         # Matching context followed by optional quote/number then the word
         pattern = re.escape(context) + r"\s[\u201c\u2018]?\d*" + re.escape(correct) + r"(?!\w)"  # Looking for context + space + optional quotes + optional digits + word + (negative lookup - not part of larger word)
         return [(m.start() + m.group().index(correct), m.start() + m.group().index(correct) + len(correct))
                 for m in re.finditer(pattern, sentence)]
 
     all_matches = []
-    for ctxt in contexts:
+    for ctxt in contexts :
         all_matches = find_matches(ctxt)
         if all_matches:
             break
 
     # Fallback: just finding the word on its own if no matches
-    if not all_matches:
+    if not all_matches :
         all_matches = [(m.start(), m.end()) for m in re.finditer(r"(?<!\w)" + re.escape(correct) + r"(?!\w)", sentence)]  # Finding start and end position of every occurrence of the word on its own
 
-    if not all_matches:
+    if not all_matches :
         # print(f"Warning: 0 matches found for '{correct}' in: {sentence}")
         return sentence
 
-    if len(all_matches) == 1:
+    if len(all_matches) == 1 :
         start, end = all_matches[0]  # If only 1 match - take that match
     else:
         approx_pos = len(" ".join(sentence.split()[:token_id - 1]))
@@ -557,7 +556,7 @@ def check_one_diff(row):
     """Function to check number of different tokens between correct and incorrect sentences - should be 1"""
     orig   = row["sentence"].split()
     incorr = row["incorrect_sentence"].split()
-    if len(orig) != len(incorr):
+    if len(orig) != len(incorr) :
         return "different_length"
     return sum(a != b for a, b in zip(orig, incorr))
 
@@ -571,22 +570,16 @@ print("Number of rows left after removal of errors:", len(df_final))
 print("Mutation type counts after removal of errors:", df_final["mutation_type"].value_counts(), "\n-------")
 
 print("Mutation type counts in initial df:\n", df_final["mutation_type"].value_counts())
-print("Trigger type counts in initial df:\n", df_final["trigger_type"].value_counts())
+print("Trigger type counts in initial df:\n", df_final["trigger_type"].value_counts(), "\n-------")
+
+# Printing various counts for later error analysis
 print("Specific trigger counts where trigger_type is MS:\n", df_final[df_final["trigger_type"] == "MS"]["specific_trigger"].value_counts())
 print("Top 20 specific trigger counts where trigger_type is L:\n", df_final[df_final["trigger_type"] == "L"]["specific_trigger"].value_counts().head(20))
-
 total = len(df_final)
-print("Specific trigger counts where trigger_type is MS:\n",
+print("Specific trigger counts where trigger_type is MS in pct:\n",
       (df_final[df_final["trigger_type"] == "MS"]["specific_trigger"].value_counts() / total * 100).round(2))
-
-print("Top 20 specific trigger counts where trigger_type is L:\n",
+print("Top 20 specific trigger counts where trigger_type is L in pct:\n",
       (df_final[df_final["trigger_type"] == "L"]["specific_trigger"].value_counts().head(20) / total * 100).round(2))
-
-print("Number of correct words with capital letter\n", df_final["correct_form"].str.istitle().sum())
-
-print("Proper nouns:", (df_final["pos"] == "PROPN").sum())
-print("As % of total:", round((df_final["pos"] == "PROPN").mean() * 100, 2))
-
 cap_not_sentence_initial = df_final[
     (df_final["correct_form"].str[0].str.isupper()) &
     ((df_final["prev_word"].notna()) |  (df_final["pos"] == "PROPN"))
@@ -599,8 +592,7 @@ for prefix in ["g", "rh", "ll"]:
     count = df_final[(df_final["mutation_type"] == "SM") & 
                      (df_final["lemma"].str.lower().str.startswith(prefix))]["lemma"].count()
     print(f"SM items with lemma starting with '{prefix}': {count}")
-
-
+print("-------\n")
 print("Rows in initial df:\n", len(df_final))
 print("Exporting initial df to csv (name: initial_treebank_dataset.csv)")
 df_final.to_csv("initial_treebank_dataset.csv", index=True)
@@ -674,7 +666,7 @@ print(f"Average sentence length: {len(df_final_tokens) / n_final_sents}")
 print(f"Type/token ratio: {len(set(df_final_tokens)) / len(df_final_tokens)}")
 print(f"Herdan's C: {log(len(set(df_final_tokens))) / log(len(df_final_tokens))}\n-------\n")
 
-# Sampling 500 questions from df_final (one row per question)
+# Sampling 500 questions from df_final (one row per question) for human test
 
 human_no_NM = df_final[df_final['mutation_type'] == 'no_NM'].sample(n=67, random_state=11)
 human_no_SM = df_final[df_final['mutation_type'] == 'no_SM'].sample(n=67, random_state=11)
