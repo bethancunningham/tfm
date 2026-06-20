@@ -15,4 +15,4 @@ The project combines:
 
 ## Workflow
 ### Phase 1 - Dataset creation
-
+- [Treebank dataset creation script](code/dataset_creation/dataset_creation_treebank.py): takes [Treebank source files and list of feminine singular nouns](source_files), outputs the files for manual annotation where automatic annotation failed, takes the [completed manual annotations](manual_annotations), then outputs the final [Treebank Simple dataset](initial_treebank_dataset.py) and [Treebank Expanded dataset](expanded_treebank_dataset.py)
