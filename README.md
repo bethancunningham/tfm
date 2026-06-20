@@ -15,4 +15,12 @@ The project combines:
 
 ## Workflow
 ### Phase 1 - Dataset creation
-- [Treebank dataset creation script](code/dataset_creation/dataset_creation_treebank.py): takes [Treebank source files and list of feminine singular nouns](source_files), outputs the files for manual annotation where automatic annotation failed, takes the [completed manual annotations](manual_annotations), then outputs the final [Treebank Simple dataset](initial_treebank_dataset.py) and [Treebank Expanded dataset](expanded_treebank_dataset.py)
+- [Treebank dataset creation script](code/dataset_creation/dataset_creation_treebank.py): takes [Treebank source files and list of feminine singular nouns](source_files), outputs the files for manual annotation where automatic annotation failed, takes the [completed manual annotations](manual_annotations), then outputs the final [Simple Treebank dataset](initial_treebank_dataset.py) and [Expanded Treebank dataset](expanded_treebank_dataset.py)
+- [News dataset creation script](code/dataset_creation/dataset_creation_news.py): takes [News sentences file](datasets/sentences_news_articles_semicolon.csv), outputs the final [Simple News dataset](initial_news_dataset.py) and [Expanded News dataset](expanded_news_dataset.py)
+
+### Phase 2 - Pipeline to assign NLL
+
+
+### Phase 3 - Data cleaning
+
+### Phase 4 - Data analysis
