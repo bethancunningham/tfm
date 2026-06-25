@@ -45,7 +45,7 @@ This repository contains the code and data for a master's dissertation investiga
 │   ├── results_cleaning/       # Cleaning scripts
 │   └── data_analysis/          # Statistical modelling, plots, and tables
 ├── datasets/                   # Input datasets (Treebank + News)
-├── source_files/               # Raw treebank files, noun lists
+├── source_files/               # Raw Treebank files, noun lists
 ├── manual_annotations/         # Manual annotations (mutation trigger) where necessary
 ├── initial_results/            # Raw Simple results (Treebank)
 ├── expanded_results/           # Raw Expanded results (Treebank)
