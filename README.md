@@ -19,6 +19,7 @@ This repository contains the code and data for a master's dissertation investiga
 `meta-llama/Llama-3.1-8B`, `ai-forever/mGPT-13B`, `microsoft/phi-2`, `mistralai/Mistral-7B-v0.1`, `bigscience/bloom-7b1`, `britllm/TransWebLLM`, `CohereLabs/tiny-aya-base`, 
 `utter-project/EuroLLM-9B`, `Qwen/Qwen3-8B`, `LLaMAX/LLaMAX3-8B`
 
+## 🗂️ Workflow
 ### Phase 1 · Dataset creation
  
 - [Treebank dataset creation script](code/dataset_creation/dataset_creation_treebank.py) — takes [Treebank source files and list of feminine singular nouns](source_files), outputs files for manual annotation where automatic annotation failed, takes the [completed manual annotations](manual_annotations), then outputs the final [Simple](datasets/initial_treebank_dataset.csv) and [Expanded](datasets/expanded_treebank_dataset.csv) Treebank datasets
@@ -43,15 +44,17 @@ This repository contains the code and data for a master's dissertation investiga
 │   ├── pipeline/               # NLL scoring notebooks (Treebank + News)
 │   ├── results_cleaning/       # Cleaning scripts
 │   └── data_analysis/          # Statistical modelling, plots, and tables
-├── datasets/                   # Input datasets (Treebank + News)
-├── source_files/               # Raw Treebank files, noun lists
-├── manual_annotations/         # Human annotations where required
-├── initial_results/            # Raw Simple results (Treebank)
-├── expanded_results/           # Raw Expanded results (Treebank)
-├── initial_results_small/      # Raw Simple results (News)
-├── expanded_results_small/     # Raw Expanded results (News)
+├── datasets/                   # Input datasets (treebank + news)
+├── source_files/               # Raw treebank files, noun lists
+├── manual_annotations/         # Human-annotated edge cases
+├── initial_results/            # Raw simple results (treebank)
+├── expanded_results/           # Raw expanded results (treebank)
+├── initial_results_small/      # Raw simple results (news)
+├── expanded_results_small/     # Raw expanded results (news)
 ├── logit_lens_results/         # Per-layer NLL outputs
-└── clean_results/              # Clean, merged results
+├── clean_results/              # Analysis-ready merged results
+├── error_analysis/             # Error analysis outputs
+└── human_test/                 # Human evaluation data
 ```
  
 ---
