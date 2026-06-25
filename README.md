@@ -44,15 +44,15 @@ This repository contains the code and data for a master's dissertation investiga
 │   ├── pipeline/               # NLL scoring notebooks (Treebank + News)
 │   ├── results_cleaning/       # Cleaning scripts
 │   └── data_analysis/          # Statistical modelling, plots, and tables
-├── datasets/                   # Input datasets (treebank + news)
+├── datasets/                   # Input datasets (Treebank + News)
 ├── source_files/               # Raw treebank files, noun lists
 ├── manual_annotations/         # Human-annotated edge cases
-├── initial_results/            # Raw simple results (treebank)
-├── expanded_results/           # Raw expanded results (treebank)
-├── initial_results_small/      # Raw simple results (news)
-├── expanded_results_small/     # Raw expanded results (news)
+├── initial_results/            # Raw Simple results (Treebank)
+├── expanded_results/           # Raw Expanded results (Treebank)
+├── initial_results_small/      # Raw Simple results (News)
+├── expanded_results_small/     # Raw Expanded results (News)
 ├── logit_lens_results/         # Per-layer NLL outputs
-├── clean_results/              # Analysis-ready merged results
+├── clean_results/              # Clean, merged results
 ├── error_analysis/             # Error analysis outputs
 └── human_test/                 # Human evaluation data
 ```
